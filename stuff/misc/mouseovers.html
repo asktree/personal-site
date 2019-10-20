@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab:bold" rel="stylesheet">
+<style type='text/css'>
+body{
+	font-size: 24px;
+	font-family: Roboto;
+}
+a{
+	font-weight: bold;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	text-shadow: 0px 0px #000;
+	transition: all 1s ease;
+}
+
+a:hover{
+	text-shadow: 5px 10px #ccc;
+	left: -5px; 
+	top: -10px;
+}
+
+</style>
+<body>
+Here is a <a>linkekekekjkekek</a> right here and also <a>here</a>.
+</body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+//$('a').each(pretty_link)
+
+function pretty_link() {
+	console.log(d3.select(this))
+	//width = d3.select(this).node().getBBox().width;
+	text = $(this).text();
+	$(this).text("");
+	svg = d3.select(this).append('svg');
+	
+	t = svg.append("text")
+		.attr("y", "1em")
+		.attr("stroke", "black")
+		.attr("stroke-width", ".5px")
+		.attr("fill", "none")
+		.text(text)
+		;
+	//t.attr('width', svg.node().getBBox().width)
+	svg
+		.attr('height', '1em')
+		.attr('width', svg.node().getBBox().width-2)
+		.attr('overflow', 'visible')
+		;
+}
+	
+
+var t = d3.selectAll(".rollover")
+		.on("mouseover", thicken)
+		.on("mouseout", unthicken)
+		;
+		 
+function thicken(){
+	n = d3.select(this).select("text")
+		//.style("fill", "none")
+		.transition(d3.transition().duration(2000))
+			.style("stroke-width", "200")
+		//.style("writing-mode", "tb")
+		;
+}
+function unthicken(){
+	n = d3.select(this).select("text")
+		.transition(d3.transition().duration(2000))
+			.style("stroke-width", "0")
+		//.style("writing-mode", "tb")
+		;
+}
+
+
+
+
+
+</script>

@@ -1,0 +1,7274 @@
+[
+  {
+    "n": "Estimate; SEX AND AGE - Total population - Male",
+    "c": [
+      57,
+      365,
+      25,
+      1,
+      19
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9998755013754866,
+      0.9998101832295796,
+      0.999651911076906,
+      0.9995203528513276,
+      0.9994846381095944
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - Total population - Female",
+    "c": [
+      365,
+      57,
+      25,
+      16,
+      0
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.999884728771558,
+      0.9998845748583862,
+      0.9998442423234184,
+      0.9995459348494516,
+      0.9995203528513276
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - Under 5 years",
+    "c": [
+      3,
+      323,
+      324,
+      82,
+      296
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.998112334989966,
+      0.9975998699387206,
+      0.9971701088503312,
+      0.9971540350871396,
+      0.9967182688885732
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 5 to 9 years",
+    "c": [
+      324,
+      83,
+      4,
+      2,
+      296
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.999602765981545,
+      0.9990102658035236,
+      0.998744679631508,
+      0.998112334989966,
+      0.9980810643943988
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 10 to 14 years",
+    "c": [
+      83,
+      324,
+      3,
+      84,
+      296
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.999865830418996,
+      0.9996615260166928,
+      0.998744679631508,
+      0.9983088464019634,
+      0.998186866495744
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 15 to 19 years",
+    "c": [
+      325,
+      301,
+      83,
+      4,
+      0
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9978597774650182,
+      0.9974510015122836,
+      0.9966322718278149,
+      0.9965810592559514,
+      0.996084040466142
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 20 to 24 years",
+    "c": [
+      326,
+      305,
+      5,
+      338,
+      0
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9942601257072472,
+      0.9925497280180292,
+      0.9921039671256916,
+      0.991333212443216,
+      0.9906803494751418
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 25 to 34 years",
+    "c": [
+      338,
+      305,
+      8,
+      73,
+      78
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9951412493424336,
+      0.9942698580388972,
+      0.9941338137876612,
+      0.9936324138431863,
+      0.9934793158221852
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 35 to 44 years",
+    "c": [
+      338,
+      0,
+      57,
+      78,
+      73
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.998504999061036,
+      0.9980267415215344,
+      0.997867497886718,
+      0.9978594397347867,
+      0.9977903003936079
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 45 to 54 years",
+    "c": [
+      327,
+      10,
+      341,
+      17,
+      365
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9982898550014274,
+      0.9982514787363936,
+      0.9982081677635573,
+      0.9980023789466078,
+      0.9979905932470512
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 55 to 59 years",
+    "c": [
+      11,
+      9,
+      327,
+      17,
+      152
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9985258200205609,
+      0.9982514787363936,
+      0.9978490914720141,
+      0.9974520021736168,
+      0.9974177393375708
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 60 to 64 years",
+    "c": [
+      10,
+      327,
+      17,
+      20,
+      152
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9985258200205609,
+      0.9968937830770804,
+      0.996352407845135,
+      0.9963128534417106,
+      0.9963012955440071
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 65 to 74 years",
+    "c": [
+      18,
+      22,
+      21,
+      297,
+      23
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9992370984797224,
+      0.99879524888078,
+      0.9987197544168618,
+      0.9983291344716738,
+      0.9977410628382252
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 75 to 84 years",
+    "c": [
+      21,
+      23,
+      297,
+      22,
+      18
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9989674000041796,
+      0.9988166501974294,
+      0.9981857321424638,
+      0.9979358635032044,
+      0.9979354942286862
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 85 years and over",
+    "c": [
+      13,
+      23,
+      21,
+      297,
+      18
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9937907636685359,
+      0.9934185821916758,
+      0.9921144705678356,
+      0.9920328870827688,
+      0.9907463083930474
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - Median age (years)",
+    "c": [
+      171,
+      129,
+      146,
+      172,
+      91
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.19219114522023348,
+      0.15762113405289208,
+      0.1272268474659746,
+      0.08152310434027903,
+      0.06236755872370485
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 18 years and over",
+    "c": [
+      17,
+      20,
+      19,
+      327,
+      365
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9999555631688776,
+      0.9998228542332308,
+      0.9997990184913572,
+      0.9997727443849306,
+      0.999678463638736
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 21 years and over",
+    "c": [
+      16,
+      327,
+      20,
+      19,
+      365
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9999555631688776,
+      0.9999195821455352,
+      0.999810153462926,
+      0.9997207953649976,
+      0.9995686471498998
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 62 years and over",
+    "c": [
+      21,
+      297,
+      23,
+      12,
+      22
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.999765075419754,
+      0.9996045825320624,
+      0.9994425781299896,
+      0.9992370984797224,
+      0.9989621324120168
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 18 years and over - Male",
+    "c": [
+      16,
+      17,
+      365,
+      327,
+      0
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9997990184913572,
+      0.9997207953649976,
+      0.9996251039049894,
+      0.9994850303802364,
+      0.9994846381095944
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 18 years and over - Female",
+    "c": [
+      16,
+      17,
+      327,
+      1,
+      365
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9998228542332308,
+      0.999810153462926,
+      0.9996771093817785,
+      0.9994833122053921,
+      0.9993628428031244
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 65 years and over",
+    "c": [
+      18,
+      23,
+      297,
+      22,
+      13
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.999765075419754,
+      0.9996048672347476,
+      0.9995310564602476,
+      0.99929386022191,
+      0.9989674000041796
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 65 years and over - Male",
+    "c": [
+      21,
+      18,
+      12,
+      297,
+      13
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.99929386022191,
+      0.9989621324120168,
+      0.99879524888078,
+      0.998115409496374,
+      0.9979358635032044
+    ]
+  },
+  {
+    "n": "Estimate; SEX AND AGE - 65 years and over - Female",
+    "c": [
+      297,
+      21,
+      18,
+      13,
+      22
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9996671394144724,
+      0.9996048672347476,
+      0.9994425781299896,
+      0.9988166501974294,
+      0.9978428524249796
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Total population - Two or more races",
+    "c": [
+      70,
+      72,
+      49,
+      303,
+      86
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9820463756174912,
+      0.9769003279238552,
+      0.9611356293941182,
+      0.9189950070843668,
+      0.9161888898536392
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race",
+    "c": [
+      57,
+      1,
+      365,
+      0,
+      16
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9998697561054471,
+      0.9998442423234184,
+      0.999832453668461,
+      0.999651911076906,
+      0.9993184691697604
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - White",
+    "c": [
+      51,
+      300,
+      288,
+      140,
+      311
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9997633847498174,
+      0.9893626678181292,
+      0.9893598971433208,
+      0.9867268149923254,
+      0.9866914992112
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Black or African American",
+    "c": [
+      65,
+      52,
+      133,
+      114,
+      292
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9995609450323728,
+      0.999069372027924,
+      0.8871494215179314,
+      0.8779816234014287,
+      0.8604939071678696
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - American Indian and Alaska Native",
+    "c": [
+      66,
+      53,
+      31,
+      48,
+      375
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9654116102517332,
+      0.9129866837261998,
+      0.6959268684196391,
+      0.6299421417792482,
+      0.5746316336685089
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping",
+    "c": [
+      48,
+      53,
+      28,
+      66,
+      50
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.5094790967801623,
+      0.44213803890399866,
+      0.3679920107762413,
+      0.35044784220292274,
+      0.3331867989906229
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping",
+    "c": [
+      391,
+      399,
+      66,
+      28,
+      385
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.29317598397872896,
+      0.24331592208546146,
+      0.16004791574711738,
+      0.15675636806158133,
+      0.1552787618846768
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping",
+    "c": [
+      66,
+      28,
+      53,
+      375,
+      251
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.7616718889845373,
+      0.6959268684196391,
+      0.4668707984893565,
+      0.3032483735328867,
+      0.26628032033813537
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping",
+    "c": [
+      299,
+      298,
+      209,
+      66,
+      28
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.2014240035110776,
+      0.19920546701347291,
+      0.19468348909396668,
+      0.1832068518770324,
+      0.1815152456999858
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian",
+    "c": [
+      67,
+      54,
+      373,
+      360,
+      374
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9999890575790348,
+      0.99785198773194,
+      0.9939673976765356,
+      0.9899143242027738,
+      0.9879532789981827
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Asian Indian",
+    "c": [
+      71,
+      143,
+      122,
+      142,
+      334
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.8015192479790512,
+      0.7947557982577107,
+      0.7932047571192719,
+      0.7924427289512815,
+      0.7855790733876872
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Chinese",
+    "c": [
+      374,
+      360,
+      373,
+      67,
+      33
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9537731840798668,
+      0.937852877059954,
+      0.9370825461263436,
+      0.9332821841996156,
+      0.9327931186129949
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Filipino",
+    "c": [
+      54,
+      49,
+      373,
+      33,
+      67
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9211765765707104,
+      0.9211324663403148,
+      0.9120584802785509,
+      0.9081906929837296,
+      0.9066681886727208
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Japanese",
+    "c": [
+      228,
+      41,
+      55,
+      68,
+      226
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.942187334930322,
+      0.9008640883045204,
+      0.9001343506946351,
+      0.8983054709019676,
+      0.8855096664406324
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Korean",
+    "c": [
+      360,
+      373,
+      374,
+      67,
+      33
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9260197626959212,
+      0.9201944114442636,
+      0.9168568920004828,
+      0.9003226254253667,
+      0.9003146649246703
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Vietnamese",
+    "c": [
+      373,
+      67,
+      33,
+      54,
+      360
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.7552774170519269,
+      0.7482156863026532,
+      0.7474741071246142,
+      0.740716168173297,
+      0.7311494360824415
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Asian - Other Asian",
+    "c": [
+      33,
+      67,
+      54,
+      360,
+      374
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9165574007748368,
+      0.9164344085560112,
+      0.9163882775516744,
+      0.9093923553058312,
+      0.9035019924208152
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander",
+    "c": [
+      68,
+      55,
+      45,
+      42,
+      37
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9995806568914859,
+      0.9897066169484194,
+      0.9353704112369128,
+      0.9275946770028318,
+      0.9008640883045204
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian",
+    "c": [
+      55,
+      41,
+      68,
+      37,
+      226
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9651396591828101,
+      0.9275946770028318,
+      0.9223465676570368,
+      0.8178168033593376,
+      0.8152402899636859
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro",
+    "c": [
+      49,
+      36,
+      72,
+      24,
+      70
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.8313115057134648,
+      0.8048051899115277,
+      0.7902509112663386,
+      0.7898619677907995,
+      0.787538806836953
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan",
+    "c": [
+      68,
+      41,
+      37,
+      362,
+      55
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.8867591336000827,
+      0.8828848197967909,
+      0.8779576970232739,
+      0.8386914216746632,
+      0.8289042469622412
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander",
+    "c": [
+      68,
+      41,
+      362,
+      55,
+      44
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9394152498815248,
+      0.9353704112369128,
+      0.9068387195473973,
+      0.8984325201763645,
+      0.8248536877968272
+    ]
+  },
+  {
+    "n": "Estimate; RACE - One race - Some other race",
+    "c": [
+      56,
+      232,
+      233,
+      328,
+      367
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9997819122982022,
+      0.9642774737542931,
+      0.9630784465277492,
+      0.959118436744785,
+      0.9386745114084696
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Two or more races - White and Black or African American",
+    "c": [
+      366,
+      63,
+      231,
+      294,
+      348
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9304027489214723,
+      0.9268881427040111,
+      0.9258342575705364,
+      0.9241169923604864,
+      0.92328638652219
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Two or more races - White and American Indian and Alaska Native",
+    "c": [
+      53,
+      24,
+      219,
+      331,
+      291
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.8800419439877489,
+      0.8500002083600353,
+      0.8417545872524628,
+      0.8340945715429924,
+      0.8322245086969242
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Two or more races - White and Asian",
+    "c": [
+      24,
+      70,
+      72,
+      54,
+      33
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9611356293941182,
+      0.952079092740647,
+      0.9486062946573977,
+      0.9436047815757046,
+      0.9264720457611528
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native",
+    "c": [
+      310,
+      283,
+      305,
+      208,
+      279
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.879439252080552,
+      0.8769690485154091,
+      0.875805784181896,
+      0.8756096766357393,
+      0.8754754410248146
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Race alone or in combination with one or more other races - Total population - White",
+    "c": [
+      26,
+      300,
+      288,
+      311,
+      306
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9997633847498174,
+      0.9908367259994052,
+      0.990835832907484,
+      0.9885743237801188,
+      0.9882002446943898
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American",
+    "c": [
+      27,
+      65,
+      133,
+      114,
+      292
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.999069372027924,
+      0.9982302562605564,
+      0.8990594833227286,
+      0.8930634596687952,
+      0.8782465345412028
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native",
+    "c": [
+      28,
+      48,
+      66,
+      291,
+      24
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9129866837261998,
+      0.8800419439877489,
+      0.7983373844147974,
+      0.7978071638546623,
+      0.792345083211375
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian",
+    "c": [
+      33,
+      67,
+      373,
+      374,
+      360
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.99785198773194,
+      0.9976374726779684,
+      0.9897437692317742,
+      0.9826606889590054,
+      0.981934620169774
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander",
+    "c": [
+      41,
+      68,
+      42,
+      37,
+      45
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9897066169484194,
+      0.987294162471092,
+      0.9651396591828101,
+      0.9001343506946351,
+      0.8984325201763645
+    ]
+  },
+  {
+    "n": "Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race",
+    "c": [
+      46,
+      232,
+      233,
+      328,
+      367
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9997819122982022,
+      0.9671018738248656,
+      0.963310649522623,
+      0.9615855726327316,
+      0.9426943840179136
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population",
+    "c": [
+      365,
+      1,
+      0,
+      25,
+      16
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9999680332446744,
+      0.9998845748583862,
+      0.9998755013754866,
+      0.9998697561054471,
+      0.9994906131074666
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)",
+    "c": [
+      369,
+      370,
+      367,
+      328,
+      368
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9956008573937186,
+      0.9868711633220963,
+      0.9775941915448896,
+      0.9754276445554052,
+      0.9697769664148136
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican",
+    "c": [
+      58,
+      328,
+      369,
+      232,
+      56
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9442933588840664,
+      0.9226524315858914,
+      0.920721963837335,
+      0.9192783343831826,
+      0.9114426119826226
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican",
+    "c": [
+      356,
+      352,
+      355,
+      216,
+      271
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.8770103792269487,
+      0.87438374799172,
+      0.8029885465791514,
+      0.7176123310688871,
+      0.7067332661088248
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban",
+    "c": [
+      363,
+      62,
+      403,
+      357,
+      370
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.4904514776128806,
+      0.4710695245645574,
+      0.4414205672816259,
+      0.42758003583393306,
+      0.3989257632411481
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino",
+    "c": [
+      363,
+      358,
+      353,
+      354,
+      368
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9422531926464952,
+      0.9208423742510736,
+      0.9204347697520432,
+      0.9116562656670362,
+      0.911030812447604
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino",
+    "c": [
+      366,
+      231,
+      153,
+      120,
+      158
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9925947345338793,
+      0.9870555270541396,
+      0.9865767006302052,
+      0.984907608700274,
+      0.9849005142069591
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone",
+    "c": [
+      366,
+      257,
+      63,
+      199,
+      242
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9790037066490076,
+      0.9737803295512352,
+      0.970258863129026,
+      0.9693580223331256,
+      0.9688769203659212
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone",
+    "c": [
+      27,
+      52,
+      133,
+      114,
+      292
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9995609450323728,
+      0.9982302562605564,
+      0.8802526329151796,
+      0.8723676003725804,
+      0.8551243199169255
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone",
+    "c": [
+      28,
+      53,
+      31,
+      48,
+      375
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9654116102517332,
+      0.7983373844147974,
+      0.7616718889845373,
+      0.4675858369831806,
+      0.4439558261611336
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone",
+    "c": [
+      33,
+      54,
+      373,
+      360,
+      374
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9999890575790348,
+      0.9976374726779684,
+      0.9939114833656038,
+      0.9900524894225768,
+      0.9879274332217106
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone",
+    "c": [
+      41,
+      55,
+      45,
+      42,
+      37
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9995806568914859,
+      0.987294162471092,
+      0.9394152498815248,
+      0.9223465676570368,
+      0.8983054709019676
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone",
+    "c": [
+      71,
+      371,
+      372,
+      159,
+      62
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9285124064969384,
+      0.8216702261762551,
+      0.7923099383518069,
+      0.7921431844874212,
+      0.7759460400310072
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races",
+    "c": [
+      72,
+      24,
+      49,
+      166,
+      54
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9991314706692492,
+      0.9820463756174912,
+      0.952079092740647,
+      0.8811825568875257,
+      0.8799311445402092
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race",
+    "c": [
+      69,
+      40,
+      353,
+      275,
+      371
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9285124064969384,
+      0.8919224197676091,
+      0.8904166261841221,
+      0.8883038921997249,
+      0.8877007670133308
+    ]
+  },
+  {
+    "n": "Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races",
+    "c": [
+      70,
+      24,
+      49,
+      166,
+      153
+    ],
+    "n2": "ACS DEMOGRAPHIC AND HOUSING ESTIMATES",
+    "r": [
+      0.9991314706692492,
+      0.9769003279238552,
+      0.9486062946573977,
+      0.8693038284803538,
+      0.8678356884497053
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force",
+    "c": [
+      78,
+      74,
+      79,
+      80,
+      338
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9999188059724834,
+      0.9996828653081791,
+      0.9993453132371548,
+      0.9993155467904687,
+      0.9991716874507152
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Employed",
+    "c": [
+      78,
+      73,
+      81,
+      110,
+      80
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9997384382912484,
+      0.9996828653081791,
+      0.9992638320268922,
+      0.9991417665262421,
+      0.9989963984155451
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Civilian labor force - Unemployed",
+    "c": [
+      161,
+      305,
+      77,
+      154,
+      290
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.989143664562568,
+      0.9884109932230071,
+      0.9875511178534806,
+      0.9874873342093669,
+      0.9874583901338836
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force - Armed Forces",
+    "c": [
+      43,
+      226,
+      72,
+      261,
+      335
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.6003947150316384,
+      0.4701796069085865,
+      0.4619352610654456,
+      0.4602412140555455,
+      0.4553259080027484
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Population 16 years and over - Not in labor force",
+    "c": [
+      20,
+      16,
+      17,
+      365,
+      1
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.99575706639856,
+      0.9956971606252476,
+      0.9954940682406366,
+      0.9952899921923892,
+      0.9952500509199124
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Civilian labor force",
+    "c": [
+      73,
+      74,
+      80,
+      79,
+      338
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9999188059724834,
+      0.9997384382912484,
+      0.9993867393690956,
+      0.9993751120153891,
+      0.9992197049581114
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force",
+    "c": [
+      80,
+      81,
+      78,
+      73,
+      74
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9999940407153456,
+      0.9997368815833332,
+      0.9993751120153891,
+      0.9993453132371548,
+      0.9989944329996194
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force",
+    "c": [
+      79,
+      81,
+      78,
+      73,
+      74
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9999940407153456,
+      0.9997307428426192,
+      0.9993867393690956,
+      0.9993155467904687,
+      0.9989963984155451
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Females 16 years and over - In labor force - Civilian labor force - Employed",
+    "c": [
+      79,
+      80,
+      74,
+      78,
+      73
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9997368815833332,
+      0.9997307428426192,
+      0.9992638320268922,
+      0.9991373403441828,
+      0.9991015119091724
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Own children under 6 years - All parents in family in labor force",
+    "c": [
+      2,
+      296,
+      84,
+      3,
+      287
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9971540350871396,
+      0.9971073759513652,
+      0.9966462874631232,
+      0.9963440719013,
+      0.9963382585991786
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years",
+    "c": [
+      4,
+      324,
+      3,
+      296,
+      84
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.999865830418996,
+      0.999690957828112,
+      0.9990102658035236,
+      0.9985244602237852,
+      0.9983976492277312
+    ]
+  },
+  {
+    "n": "Estimate; EMPLOYMENT STATUS - Own children 6 to 17 years - All parents in family in labor force",
+    "c": [
+      83,
+      4,
+      296,
+      287,
+      324
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9983976492277312,
+      0.9983088464019634,
+      0.9983053398166086,
+      0.998190721317322,
+      0.9980520028303856
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone",
+    "c": [
+      218,
+      84,
+      288,
+      300,
+      86
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9969162276451944,
+      0.9864079286232196,
+      0.9863076746348708,
+      0.9863061955761022,
+      0.9858641446119388
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled",
+    "c": [
+      3,
+      83,
+      324,
+      4,
+      296
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9877413104012368,
+      0.9875782422276334,
+      0.9874983436291588,
+      0.9874140604302336,
+      0.9864647498441812
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)",
+    "c": [
+      216,
+      88,
+      191,
+      359,
+      372
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9460266821146672,
+      0.8685323736684807,
+      0.8430380381850202,
+      0.8339465171814776,
+      0.8304688189590369
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Workers 16 years and over - Walked",
+    "c": [
+      216,
+      179,
+      202,
+      271,
+      280
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9391219230920116,
+      0.9271711782582353,
+      0.9069373474944205,
+      0.9023183794872108,
+      0.8997119173836058
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Workers 16 years and over - Other means",
+    "c": [
+      303,
+      282,
+      283,
+      279,
+      208
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9623973350513764,
+      0.9570115577931552,
+      0.95528413550146,
+      0.9527525282987462,
+      0.9526288749758228
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Workers 16 years and over - Worked at home",
+    "c": [
+      333,
+      92,
+      105,
+      74,
+      73
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.98053716715298,
+      0.9760805651365276,
+      0.9754693309978532,
+      0.9712836075125332,
+      0.9708236265330414
+    ]
+  },
+  {
+    "n": "Estimate; COMMUTING TO WORK - Mean travel time to work (minutes)",
+    "c": [
+      277,
+      149,
+      151,
+      298,
+      150
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.2619949797634091,
+      0.2415198123568879,
+      0.21057935649574253,
+      0.20107944135644612,
+      0.1993742664795623
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations",
+    "c": [
+      333,
+      105,
+      158,
+      157,
+      121
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.99665179581103,
+      0.9937011267242006,
+      0.9935783555689804,
+      0.9926769692653988,
+      0.991888437689814
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations",
+    "c": [
+      16,
+      20,
+      17,
+      1,
+      19
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.99290670194135,
+      0.9928960411192946,
+      0.9927687985386237,
+      0.9926479687227098,
+      0.9925311533103288
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations",
+    "c": [
+      78,
+      101,
+      74,
+      73,
+      110
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.997474917552986,
+      0.9974620422703692,
+      0.997421524448652,
+      0.9974098720109864,
+      0.9969987584037056
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations",
+    "c": [
+      98,
+      3,
+      324,
+      323,
+      86
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9908257990905356,
+      0.9820860805933492,
+      0.9816023888368648,
+      0.980905234460022,
+      0.9804704168594074
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations",
+    "c": [
+      290,
+      301,
+      325,
+      5,
+      83
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.98063574324894,
+      0.9799364102972096,
+      0.9798767263408404,
+      0.9789117027526982,
+      0.9771742158216168
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining",
+    "c": [
+      95,
+      156,
+      183,
+      316,
+      321
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.616417884502219,
+      0.5966999252163829,
+      0.5715325527806949,
+      0.5650078767351118,
+      0.5488181754735287
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction",
+    "c": [
+      95,
+      3,
+      323,
+      324,
+      86
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9908257990905356,
+      0.9793756941502932,
+      0.9785090204026068,
+      0.9782967169194456,
+      0.9777006070001776
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing",
+    "c": [
+      96,
+      85,
+      350,
+      289,
+      110
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.960318957841981,
+      0.9501778913378618,
+      0.9487676364376484,
+      0.9472259144609472,
+      0.9464412997744462
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade",
+    "c": [
+      94,
+      8,
+      108,
+      301,
+      9
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9815566009993963,
+      0.98087254261027,
+      0.9805868844388724,
+      0.97946182039608,
+      0.9790691425841396
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade",
+    "c": [
+      94,
+      0,
+      365,
+      57,
+      25
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9974620422703692,
+      0.9950393317732475,
+      0.9949613482447528,
+      0.9948877699590186,
+      0.994858661989336
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities",
+    "c": [
+      301,
+      82,
+      8,
+      341,
+      96
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9769546335354949,
+      0.9758809833217992,
+      0.9750214226188226,
+      0.9750197966889094,
+      0.9749892861004751
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Information",
+    "c": [
+      112,
+      230,
+      285,
+      275,
+      279
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9615947211419856,
+      0.950701514062473,
+      0.9500151338869652,
+      0.948890028389533,
+      0.9465096257625965
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing",
+    "c": [
+      333,
+      92,
+      158,
+      157,
+      110
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9754309156364134,
+      0.9735412806436908,
+      0.972217868691688,
+      0.9721438561812746,
+      0.9714240346308584
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services",
+    "c": [
+      92,
+      333,
+      158,
+      157,
+      121
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9937011267242006,
+      0.9925083235125844,
+      0.984446192914082,
+      0.983426040001818,
+      0.9825573882040568
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance",
+    "c": [
+      81,
+      152,
+      80,
+      79,
+      157
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9931266546537154,
+      0.9929968136142144,
+      0.9926019483738668,
+      0.9925858520678584,
+      0.9923253882354092
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services",
+    "c": [
+      93,
+      19,
+      17,
+      16,
+      327
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9823888538272112,
+      0.971690542277164,
+      0.9708899061346938,
+      0.9708649597597772,
+      0.9704822897694676
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration",
+    "c": [
+      8,
+      338,
+      78,
+      73,
+      341
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9923669704484056,
+      0.9916682562351185,
+      0.9908667376633292,
+      0.9906314656767108,
+      0.9903368950374778
+    ]
+  },
+  {
+    "n": "Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration",
+    "c": [
+      111,
+      130,
+      153,
+      120,
+      121
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9660151599974284,
+      0.9131368973963078,
+      0.9130256194465222,
+      0.9118657330701244,
+      0.9107058837985024
+    ]
+  },
+  {
+    "n": "Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers",
+    "c": [
+      74,
+      78,
+      73,
+      81,
+      126
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9991417665262421,
+      0.9987867224946678,
+      0.9985509528864576,
+      0.9985487282924908,
+      0.9984916947038242
+    ]
+  },
+  {
+    "n": "Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers",
+    "c": [
+      152,
+      81,
+      79,
+      157,
+      80
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9753869286702528,
+      0.9744823148289896,
+      0.9741428662721162,
+      0.9739464364730068,
+      0.9737993184332177
+    ]
+  },
+  {
+    "n": "Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers",
+    "c": [
+      108,
+      302,
+      305,
+      100,
+      290
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.978212684357644,
+      0.9700832204714502,
+      0.9683174497645268,
+      0.9679409801927789,
+      0.9676860193240224
+    ]
+  },
+  {
+    "n": "Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers",
+    "c": [
+      108,
+      19,
+      0,
+      8,
+      365
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9673746927877868,
+      0.967028469157306,
+      0.9667618204695708,
+      0.9660172171824292,
+      0.9658059501690928
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000",
+    "c": [
+      286,
+      134,
+      115,
+      116,
+      133
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9860068946114228,
+      0.9841025845388892,
+      0.9815876357946891,
+      0.9783623864787414,
+      0.9767901061528264
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999",
+    "c": [
+      116,
+      154,
+      135,
+      292,
+      131
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9927912671693038,
+      0.9869592198742604,
+      0.9866905929993808,
+      0.986425706465374,
+      0.9856447002047926
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999",
+    "c": [
+      117,
+      115,
+      118,
+      137,
+      336
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9967408288787012,
+      0.9927912671693038,
+      0.9921959378190492,
+      0.9918099835357814,
+      0.9904229050286324
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999",
+    "c": [
+      118,
+      116,
+      138,
+      137,
+      336
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9978781382433238,
+      0.9967408288787012,
+      0.9929957427395524,
+      0.9921100220761502,
+      0.9906731399239632
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999",
+    "c": [
+      117,
+      119,
+      138,
+      139,
+      182
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9978781382433238,
+      0.9962400219474418,
+      0.9940834148325988,
+      0.9934616084550656,
+      0.9931248489795336
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999",
+    "c": [
+      211,
+      169,
+      118,
+      231,
+      139
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9965650193765104,
+      0.9963818091845272,
+      0.9962400219474418,
+      0.9961686927706694,
+      0.9959890068207624
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999",
+    "c": [
+      153,
+      157,
+      158,
+      140,
+      152
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9964781653777804,
+      0.9963440211146892,
+      0.9961522712656358,
+      0.9957697778967858,
+      0.9956532208261324
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999",
+    "c": [
+      141,
+      153,
+      158,
+      157,
+      92
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9956065422270988,
+      0.9949211082780416,
+      0.9947836822829594,
+      0.9935553476033504,
+      0.991888437689814
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999",
+    "c": [
+      142,
+      121,
+      92,
+      333,
+      143
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9954679958905956,
+      0.9859745824755086,
+      0.9809856880330629,
+      0.9786093682983946,
+      0.9773793875284412
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more",
+    "c": [
+      143,
+      122,
+      334,
+      142,
+      105
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9945466539498854,
+      0.9721264080290308,
+      0.9710988562657832,
+      0.9543497257090512,
+      0.9505696711223962
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)",
+    "c": [
+      144,
+      125,
+      127,
+      145,
+      147
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9617191794200024,
+      0.9551464892413771,
+      0.9238161601642008,
+      0.9148267145848729,
+      0.8959711395367422
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)",
+    "c": [
+      145,
+      127,
+      124,
+      144,
+      146
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9792979930978212,
+      0.9723267268517041,
+      0.9551464892413771,
+      0.9445994974552611,
+      0.9252503950016354
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With earnings",
+    "c": [
+      81,
+      169,
+      74,
+      79,
+      80
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9988612763581998,
+      0.9986820248264546,
+      0.9986791187857488,
+      0.9985847125934548,
+      0.9985618928375314
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)",
+    "c": [
+      125,
+      145,
+      124,
+      144,
+      146
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9723267268517041,
+      0.9537957571777976,
+      0.9238161601642008,
+      0.9189226335875996,
+      0.8830681050982108
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With Social Security",
+    "c": [
+      297,
+      18,
+      23,
+      21,
+      308
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9963175289020306,
+      0.9956954327526132,
+      0.995481729526524,
+      0.9954804497090702,
+      0.9951612840989884
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)",
+    "c": [
+      124,
+      144,
+      125,
+      146,
+      145
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.5451984471576463,
+      0.544029638324202,
+      0.5186162628782015,
+      0.5169336781157271,
+      0.5073924796084066
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With retirement income",
+    "c": [
+      128,
+      366,
+      242,
+      198,
+      63
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9847170717490821,
+      0.9846356397756026,
+      0.9812110626004342,
+      0.9783263520902852,
+      0.9781468471086582
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With Supplemental Security Income",
+    "c": [
+      167,
+      115,
+      154,
+      292,
+      135
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9889229257924614,
+      0.9856447002047926,
+      0.9798655208758486,
+      0.9770172951948364,
+      0.9759580990675896
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With cash public assistance income",
+    "c": [
+      131,
+      167,
+      161,
+      163,
+      154
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9753517381070208,
+      0.9691746586580507,
+      0.9665333628572758,
+      0.9649002394543541,
+      0.9567732462923092
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - With Food Stamp/SNAP benefits in the past 12 months",
+    "c": [
+      114,
+      134,
+      293,
+      135,
+      292
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9767901061528264,
+      0.9634393473300952,
+      0.9506882550425756,
+      0.946650227505185,
+      0.94612846988545
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000",
+    "c": [
+      135,
+      293,
+      292,
+      115,
+      114
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9896273240108608,
+      0.986726053699242,
+      0.9858515524673852,
+      0.9848071233661604,
+      0.9841025845388892
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999",
+    "c": [
+      136,
+      134,
+      115,
+      329,
+      292
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.992502508173418,
+      0.9896273240108608,
+      0.9866905929993808,
+      0.9844215052148604,
+      0.9832172322248632
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999",
+    "c": [
+      137,
+      329,
+      135,
+      116,
+      115
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9929763501746082,
+      0.9927648372569899,
+      0.992502508173418,
+      0.9855050467032034,
+      0.985246486082582
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999",
+    "c": [
+      138,
+      136,
+      117,
+      116,
+      118
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9965573886161432,
+      0.9929763501746082,
+      0.9921100220761502,
+      0.9918099835357814,
+      0.988882229354414
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999",
+    "c": [
+      137,
+      139,
+      118,
+      117,
+      119
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9965573886161432,
+      0.9941875249426316,
+      0.9940834148325988,
+      0.9929957427395524,
+      0.9893405921506836
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999",
+    "c": [
+      119,
+      138,
+      118,
+      140,
+      331
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9959890068207624,
+      0.9941875249426316,
+      0.9934616084550656,
+      0.9933620805984952,
+      0.9928475139459716
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999",
+    "c": [
+      120,
+      288,
+      300,
+      311,
+      139
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9957697778967858,
+      0.995177131295822,
+      0.9951766620094226,
+      0.9935905576443672,
+      0.9933620805984952
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999",
+    "c": [
+      121,
+      153,
+      300,
+      288,
+      158
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9956065422270988,
+      0.9928183679345312,
+      0.9911554821233176,
+      0.9911416331231392,
+      0.9895287161327792
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999",
+    "c": [
+      122,
+      121,
+      141,
+      250,
+      92
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9954679958905956,
+      0.9837085056135764,
+      0.9829827373092908,
+      0.9747459088780978,
+      0.9715684444731356
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more",
+    "c": [
+      123,
+      122,
+      142,
+      334,
+      250
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9945466539498854,
+      0.9773793875284412,
+      0.9687984789777321,
+      0.967126537870406,
+      0.9514458575371189
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)",
+    "c": [
+      124,
+      145,
+      125,
+      127,
+      146
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9617191794200024,
+      0.9498412107307729,
+      0.9445994974552611,
+      0.9189226335875996,
+      0.9075203740490644
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)",
+    "c": [
+      125,
+      127,
+      144,
+      146,
+      124
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9792979930978212,
+      0.9537957571777976,
+      0.9498412107307729,
+      0.9438348377992888,
+      0.9148267145848729
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)",
+    "c": [
+      145,
+      125,
+      144,
+      127,
+      124
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9438348377992888,
+      0.9252503950016354,
+      0.9075203740490644,
+      0.8830681050982108,
+      0.8743427731160609
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)",
+    "c": [
+      148,
+      124,
+      125,
+      144,
+      145
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9269192285051734,
+      0.8959711395367422,
+      0.875824593925073,
+      0.8483167874535831,
+      0.8317872468258105
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)",
+    "c": [
+      147,
+      125,
+      124,
+      127,
+      146
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9269192285051734,
+      0.8968171982562332,
+      0.870623094397631,
+      0.8501610532138817,
+      0.8457079459186405
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)",
+    "c": [
+      127,
+      124,
+      144,
+      125,
+      150
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.8569642458448177,
+      0.8540144106393668,
+      0.8260514989078015,
+      0.822582740485011,
+      0.8026748864206981
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)",
+    "c": [
+      127,
+      144,
+      124,
+      125,
+      145
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.8570812375435216,
+      0.8391621140367672,
+      0.8340733983133918,
+      0.8319903552781045,
+      0.814327237338787
+    ]
+  },
+  {
+    "n": "Estimate; INCOME AND BENEFITS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)",
+    "c": [
+      127,
+      125,
+      144,
+      145,
+      124
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.8301745517608248,
+      0.8247478394230178,
+      0.8211143017955174,
+      0.8198063630343108,
+      0.8116101708748078
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage",
+    "c": [
+      20,
+      17,
+      16,
+      327,
+      79
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9982369552198784,
+      0.9982024838816398,
+      0.9981981554515376,
+      0.9981980711370766,
+      0.9981360520756972
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance",
+    "c": [
+      158,
+      157,
+      120,
+      288,
+      300
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9984582716250104,
+      0.9975402858150404,
+      0.9964781653777804,
+      0.9953256104740744,
+      0.9953249623843018
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage",
+    "c": [
+      77,
+      292,
+      165,
+      336,
+      340
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9933811861985428,
+      0.9900167743279732,
+      0.98997197306419,
+      0.9890412421772332,
+      0.9889029170195884
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage",
+    "c": [
+      160,
+      168,
+      164,
+      136,
+      302
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9984397341057571,
+      0.9962979766650824,
+      0.9798047448501112,
+      0.9775565299421162,
+      0.9764173985792044
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population under 18 years - No health insurance coverage",
+    "c": [
+      155,
+      160,
+      168,
+      316,
+      321
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9573258158562976,
+      0.9487719224698912,
+      0.9451029863284416,
+      0.9403322149497656,
+      0.9401795995282102
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage",
+    "c": [
+      158,
+      81,
+      153,
+      152,
+      74
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9993329956084942,
+      0.9975682997656292,
+      0.9975402858150404,
+      0.9966417729245948,
+      0.9965783778652518
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With private health insurance",
+    "c": [
+      157,
+      153,
+      120,
+      81,
+      74
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9993329956084942,
+      0.9984582716250104,
+      0.9961522712656358,
+      0.9961502859871949,
+      0.995304574518395
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - With health insurance coverage - With public coverage",
+    "c": [
+      167,
+      163,
+      154,
+      161,
+      285
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9766883669351756,
+      0.973702908265164,
+      0.9710988092678396,
+      0.9659819693298008,
+      0.9646459546587708
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Employed: - No health insurance coverage",
+    "c": [
+      155,
+      168,
+      302,
+      136,
+      164
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9984397341057571,
+      0.9929862484104852,
+      0.9771020453220464,
+      0.9758817926711236,
+      0.9746105985643309
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage",
+    "c": [
+      75,
+      162,
+      165,
+      310,
+      154
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.989143664562568,
+      0.987762520068882,
+      0.9859510952476116,
+      0.9838351241705772,
+      0.982992004569384
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With private health insurance",
+    "c": [
+      161,
+      152,
+      9,
+      10,
+      16
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.987762520068882,
+      0.985618884497823,
+      0.984790779205603,
+      0.983893645181314,
+      0.983772182049915
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - With health insurance coverage - With public coverage",
+    "c": [
+      167,
+      161,
+      159,
+      131,
+      132
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9808379483135946,
+      0.9743740325625966,
+      0.973702908265164,
+      0.9697169910101094,
+      0.9649002394543541
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - In labor force: - Unemployed: - No health insurance coverage",
+    "c": [
+      75,
+      155,
+      136,
+      168,
+      329
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9836943374211308,
+      0.9798047448501112,
+      0.9791140898660556,
+      0.978612080571,
+      0.9785661132399102
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage",
+    "c": [
+      77,
+      20,
+      152,
+      16,
+      1
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9938214915455704,
+      0.99227771452309,
+      0.9921363270925672,
+      0.9918559265413928,
+      0.9914057720599091
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With private health insurance",
+    "c": [
+      153,
+      152,
+      157,
+      158,
+      311
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.993169322824472,
+      0.9916406894423854,
+      0.9900765795149696,
+      0.9899351884726838,
+      0.9894787450043886
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - With health insurance coverage - With public coverage",
+    "c": [
+      131,
+      154,
+      115,
+      163,
+      134
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9889229257924614,
+      0.9850673526239564,
+      0.9815025417348984,
+      0.9808379483135946,
+      0.9779746495094186
+    ]
+  },
+  {
+    "n": "Estimate; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population 18 to 64 years - Not in labor force: - No health insurance coverage",
+    "c": [
+      155,
+      160,
+      302,
+      164,
+      136
+    ],
+    "n2": "SELECTED ECONOMIC CHARACTERISTICS",
+    "r": [
+      0.9962979766650824,
+      0.9929862484104852,
+      0.978968299820134,
+      0.978612080571,
+      0.9767742928262304
+    ]
+  },
+  {
+    "n": "Estimate; HOUSING OCCUPANCY - Total housing units - Occupied housing units",
+    "c": [
+      231,
+      126,
+      182,
+      211,
+      79
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9990555369986632,
+      0.9986820248264546,
+      0.99854633624658,
+      0.997985000825614,
+      0.9977499226782642
+    ]
+  },
+  {
+    "n": "Estimate; HOUSING OCCUPANCY - Total housing units - Vacant housing units",
+    "c": [
+      269,
+      196,
+      197,
+      205,
+      128
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9325704479866628,
+      0.9157825987858929,
+      0.90383281524303,
+      0.9007636890310228,
+      0.9003580821642371
+    ]
+  },
+  {
+    "n": "Estimate; HOUSING OCCUPANCY - Homeowner vacancy rate",
+    "c": [
+      172,
+      15,
+      209,
+      170,
+      180
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.29875911525336313,
+      0.19219114522023348,
+      0.08415511571511508,
+      0.06856491302945053,
+      0.04832307749911011
+    ]
+  },
+  {
+    "n": "Estimate; HOUSING OCCUPANCY - Rental vacancy rate",
+    "c": [
+      171,
+      209,
+      15,
+      170,
+      299
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.29875911525336313,
+      0.1109779896337286,
+      0.08152310434027903,
+      0.07330223722083708,
+      0.06208420128895855
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 1-unit, detached",
+    "c": [
+      218,
+      198,
+      242,
+      85,
+      243
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.985359079964056,
+      0.9817060966981088,
+      0.9786179344061848,
+      0.9783382750784754,
+      0.9780057095006816
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 1-unit, attached",
+    "c": [
+      197,
+      165,
+      63,
+      132,
+      313
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.7565376878787959,
+      0.7553745246420475,
+      0.7551877961121886,
+      0.7549466605149333,
+      0.7526809144845601
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 2 units",
+    "c": [
+      191,
+      176,
+      359,
+      372,
+      371
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8786465702936115,
+      0.8778155516151006,
+      0.8676873082863047,
+      0.8561571784253764,
+      0.836689831515159
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 3 or 4 units",
+    "c": [
+      359,
+      177,
+      371,
+      159,
+      163
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9243575785965414,
+      0.9174981698410374,
+      0.9060339566800673,
+      0.901873511818054,
+      0.8979217074287499
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 5 to 9 units",
+    "c": [
+      282,
+      204,
+      7,
+      208,
+      310
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9653434309570416,
+      0.9647550822441134,
+      0.9645134028052236,
+      0.9629669270918461,
+      0.9629037713892016
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 10 to 19 units",
+    "c": [
+      210,
+      282,
+      281,
+      7,
+      105
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9601130818583306,
+      0.9574193198764198,
+      0.9531278777272978,
+      0.9522543935038924,
+      0.9489456359592736
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - 20 or more units",
+    "c": [
+      203,
+      194,
+      88,
+      202,
+      192
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.945492862186194,
+      0.9435744436246949,
+      0.9271711782582353,
+      0.9251552166452204,
+      0.922304534022146
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - Mobile home",
+    "c": [
+      252,
+      253,
+      181,
+      254,
+      184
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8476560419191138,
+      0.8024106114253361,
+      0.73941124098938,
+      0.7342386220729681,
+      0.7207606541666339
+    ]
+  },
+  {
+    "n": "Estimate; UNITS IN STRUCTURE - Total housing units - Boat, RV, van, etc.",
+    "c": [
+      180,
+      252,
+      364,
+      184,
+      253
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.73941124098938,
+      0.7217933400404001,
+      0.6883315463438454,
+      0.6862505624033923,
+      0.6804549256848645
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units",
+    "c": [
+      169,
+      231,
+      211,
+      119,
+      126
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.99854633624658,
+      0.9984801263359218,
+      0.9972931880573698,
+      0.9959524707526844,
+      0.9956235273937848
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 2010 or later",
+    "c": [
+      184,
+      344,
+      185,
+      256,
+      342
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8976921981895264,
+      0.8579152131339283,
+      0.8498476356806767,
+      0.8318481468717803,
+      0.8317858632314988
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 2000 to 2009",
+    "c": [
+      185,
+      351,
+      186,
+      183,
+      344
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9669029067462941,
+      0.9162135703520504,
+      0.9058894600342592,
+      0.8976921981895264,
+      0.8861117355450226
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1990 to 1999",
+    "c": [
+      184,
+      351,
+      186,
+      335,
+      206
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9669029067462941,
+      0.9501177013768044,
+      0.9394717973289785,
+      0.9172098744974702,
+      0.9144315942615368
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1980 to 1989",
+    "c": [
+      187,
+      218,
+      342,
+      309,
+      314
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9585581788688976,
+      0.9434558550166492,
+      0.9422851312224018,
+      0.9421562861902986,
+      0.9397354562015378
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1970 to 1979",
+    "c": [
+      309,
+      314,
+      218,
+      85,
+      331
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9650043500126648,
+      0.9648306473858036,
+      0.964754965365168,
+      0.9632559650490224,
+      0.9602666634089252
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1960 to 1969",
+    "c": [
+      212,
+      10,
+      213,
+      20,
+      327
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.976662866050468,
+      0.9759985223006064,
+      0.9759459574796654,
+      0.9748313885994708,
+      0.974372755202798
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1950 to 1959",
+    "c": [
+      190,
+      214,
+      188,
+      213,
+      310
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9660191230964472,
+      0.9629755262976398,
+      0.9550482228996726,
+      0.9549040806554396,
+      0.9486938594022236
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1940 to 1949",
+    "c": [
+      189,
+      131,
+      214,
+      215,
+      132
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9660191230964472,
+      0.9283489777719138,
+      0.9282913784741288,
+      0.9211168448691984,
+      0.9196194036756601
+    ]
+  },
+  {
+    "n": "Estimate; YEAR STRUCTURE BUILT - Total housing units - Built 1939 or earlier",
+    "c": [
+      271,
+      88,
+      216,
+      175,
+      176
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9060669799995478,
+      0.8831967484137873,
+      0.8808635984162108,
+      0.8786465702936115,
+      0.8738161437061679
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 1 room",
+    "c": [
+      202,
+      193,
+      203,
+      194,
+      103
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9991097330204434,
+      0.9688712017957932,
+      0.9463227521655402,
+      0.9420371144468832,
+      0.932805469158446
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 2 rooms",
+    "c": [
+      202,
+      192,
+      203,
+      194,
+      284
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9692228328125462,
+      0.9688712017957932,
+      0.964525047106844,
+      0.964270320847021,
+      0.952335063516102
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 3 rooms",
+    "c": [
+      203,
+      279,
+      208,
+      284,
+      283
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9952752489215556,
+      0.9847893391639234,
+      0.9843874435389908,
+      0.9841017126226729,
+      0.9814438608589048
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 4 rooms",
+    "c": [
+      204,
+      93,
+      208,
+      154,
+      279
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9924205759031136,
+      0.9816255063170282,
+      0.9810671915046324,
+      0.9802239417477162,
+      0.9800727562150372
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 5 rooms",
+    "c": [
+      118,
+      117,
+      336,
+      182,
+      217
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9905830981389449,
+      0.9901203347386914,
+      0.9881795970853272,
+      0.9878380665546844,
+      0.9873023715953188
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 6 rooms",
+    "c": [
+      205,
+      198,
+      349,
+      348,
+      242
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9953073105212044,
+      0.986673661311026,
+      0.9846270663381068,
+      0.9845239161365832,
+      0.9839849981689568
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 7 rooms",
+    "c": [
+      242,
+      243,
+      197,
+      257,
+      205
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9915756825632854,
+      0.9885237219767122,
+      0.986673661311026,
+      0.9864284712796092,
+      0.9860145990650429
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 8 rooms",
+    "c": [
+      257,
+      198,
+      206,
+      256,
+      243
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9863256449476194,
+      0.9835364674306772,
+      0.982783669757854,
+      0.9783845064502122,
+      0.9770339883415744
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - 9 rooms or more",
+    "c": [
+      199,
+      256,
+      257,
+      206,
+      207
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9670851631663278,
+      0.9503583283720676,
+      0.9463767843996306,
+      0.94047767314325,
+      0.936184642767962
+    ]
+  },
+  {
+    "n": "Estimate; ROOMS - Total housing units - Median rooms",
+    "c": [
+      124,
+      144,
+      149,
+      129,
+      127
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.4293128476953191,
+      0.4187368245368841,
+      0.4048273992692734,
+      0.383225042975698,
+      0.37860850175244304
+    ]
+  },
+  {
+    "n": "Estimate; BEDROOMS - Total housing units - No bedroom",
+    "c": [
+      192,
+      193,
+      203,
+      194,
+      103
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9991097330204434,
+      0.9692228328125462,
+      0.9419528347969364,
+      0.9361060275822418,
+      0.9274186467454251
+    ]
+  },
+  {
+    "n": "Estimate; BEDROOMS - Total housing units - 1 bedroom",
+    "c": [
+      194,
+      279,
+      208,
+      284,
+      283
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9952752489215556,
+      0.9838079987169248,
+      0.9834794848677958,
+      0.9814284842404,
+      0.981078632961156
+    ]
+  },
+  {
+    "n": "Estimate; BEDROOMS - Total housing units - 2 bedrooms",
+    "c": [
+      195,
+      182,
+      217,
+      340,
+      297
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9924205759031136,
+      0.9867061995229168,
+      0.986231656870218,
+      0.9856946815263312,
+      0.9846573537699732
+    ]
+  },
+  {
+    "n": "Estimate; BEDROOMS - Total housing units - 3 bedrooms",
+    "c": [
+      197,
+      348,
+      349,
+      242,
+      198
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9953073105212044,
+      0.9865551822962996,
+      0.9864666977263481,
+      0.986250957329638,
+      0.9860145990650429
+    ]
+  },
+  {
+    "n": "Estimate; BEDROOMS - Total housing units - 4 bedrooms",
+    "c": [
+      257,
+      199,
+      243,
+      198,
+      258
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9848764367166616,
+      0.982783669757854,
+      0.9816949666780508,
+      0.9806867073249764,
+      0.9788393425301568
+    ]
+  },
+  {
+    "n": "Estimate; BEDROOMS - Total housing units - 5 or more bedrooms",
+    "c": [
+      206,
+      258,
+      199,
+      200,
+      141
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9442034074949672,
+      0.937915961380904,
+      0.9365588570986536,
+      0.936184642767962,
+      0.9355210445228576
+    ]
+  },
+  {
+    "n": "Estimate; HOUSING TENURE - Occupied housing units - Renter-occupied",
+    "c": [
+      279,
+      283,
+      284,
+      282,
+      285
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.999917325085412,
+      0.99843110774633,
+      0.9983023078609752,
+      0.9952489890164086,
+      0.9941799222548832
+    ]
+  },
+  {
+    "n": "Estimate; HOUSING TENURE - Average household size of renter-occupied unit",
+    "c": [
+      298,
+      299,
+      91,
+      32,
+      277
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8145969074459146,
+      0.7410207531647549,
+      0.19696058610833672,
+      0.19468348909396668,
+      0.1931466726924841
+    ]
+  },
+  {
+    "n": "Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2010 or later",
+    "c": [
+      342,
+      343,
+      211,
+      119,
+      118
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9952730046420236,
+      0.9888899527739972,
+      0.9879310062840724,
+      0.9873193624633192,
+      0.9873029896398848
+    ]
+  },
+  {
+    "n": "Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2000 to 2009",
+    "c": [
+      169,
+      231,
+      182,
+      126,
+      119
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.997985000825614,
+      0.9975910661769788,
+      0.9972931880573698,
+      0.9972252115144528,
+      0.9965650193765104
+    ]
+  },
+  {
+    "n": "Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1990 to 1999",
+    "c": [
+      10,
+      11,
+      152,
+      327,
+      20
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9955205658820526,
+      0.995300423760228,
+      0.9933499028320516,
+      0.9932194739982186,
+      0.9931692387007848
+    ]
+  },
+  {
+    "n": "Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1980 to 1989",
+    "c": [
+      212,
+      214,
+      106,
+      313,
+      10
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.990133698357293,
+      0.9869663669748154,
+      0.9837635321844422,
+      0.9835663714866104,
+      0.9828627623925968
+    ]
+  },
+  {
+    "n": "Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1970 to 1979",
+    "c": [
+      213,
+      215,
+      212,
+      188,
+      106
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9869663669748154,
+      0.9707673927635212,
+      0.967498291989252,
+      0.966220781057365,
+      0.9650662641671364
+    ]
+  },
+  {
+    "n": "Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1969 or earlier",
+    "c": [
+      214,
+      213,
+      189,
+      350,
+      190
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9707673927635212,
+      0.9457409286202891,
+      0.9400876453678652,
+      0.9249491443801569,
+      0.9211168448691984
+    ]
+  },
+  {
+    "n": "Estimate; VEHICLES AVAILABLE - Occupied housing units - No vehicles available",
+    "c": [
+      87,
+      88,
+      271,
+      179,
+      191
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9460266821146672,
+      0.9391219230920116,
+      0.9173548489885676,
+      0.9052662453466852,
+      0.8808635984162108
+    ]
+  },
+  {
+    "n": "Estimate; VEHICLES AVAILABLE - Occupied housing units - 1 vehicle available",
+    "c": [
+      182,
+      118,
+      231,
+      169,
+      119
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9932932269632904,
+      0.9921630126905328,
+      0.9919941643162564,
+      0.9917005066169972,
+      0.9911859586602642
+    ]
+  },
+  {
+    "n": "Estimate; VEHICLES AVAILABLE - Occupied housing units - 2 vehicles available",
+    "c": [
+      85,
+      243,
+      300,
+      288,
+      242
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9969162276451944,
+      0.9911517972785494,
+      0.989365779094848,
+      0.989351994314782,
+      0.9875215297630636
+    ]
+  },
+  {
+    "n": "Estimate; VEHICLES AVAILABLE - Occupied housing units - 3 or more vehicles available",
+    "c": [
+      85,
+      218,
+      86,
+      259,
+      289
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9813018793816188,
+      0.9785950765857564,
+      0.9728936111501012,
+      0.9727831170488644,
+      0.9724500883749608
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Utility gas",
+    "c": [
+      350,
+      162,
+      161,
+      213,
+      310
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9486820148779841,
+      0.9464684490760196,
+      0.9458370072467412,
+      0.9379652248454068,
+      0.9370491058254355
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Bottled, tank, or LP gas",
+    "c": [
+      64,
+      219,
+      51,
+      140,
+      26
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.6640303219403596,
+      0.663551749311349,
+      0.6623103334297332,
+      0.6620422376189804,
+      0.661388446001504
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Electricity",
+    "c": [
+      186,
+      185,
+      351,
+      184,
+      187
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9078249191464052,
+      0.8811907395998071,
+      0.8723140378219206,
+      0.8704945521355026,
+      0.8669919806401916
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Fuel oil, kerosene, etc.",
+    "c": [
+      389,
+      60,
+      227,
+      87,
+      216
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.628473448746641,
+      0.6212503777763528,
+      0.5835582409232527,
+      0.5450885125856652,
+      0.5412915294845286
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Coal or coke",
+    "c": [
+      397,
+      223,
+      390,
+      402,
+      400
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.2729338547808948,
+      0.2524420688374685,
+      0.23830128014488014,
+      0.2273542245859749,
+      0.21387005958205368
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Wood",
+    "c": [
+      221,
+      383,
+      384,
+      396,
+      53
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.569705463243889,
+      0.4242170414298487,
+      0.4096386591159377,
+      0.3938758896559583,
+      0.3890521166701095
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Solar energy",
+    "c": [
+      55,
+      37,
+      41,
+      68,
+      228
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8893646455242361,
+      0.8855096664406324,
+      0.8831359387841856,
+      0.8798688743322293,
+      0.8374883862716965
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - Other fuel",
+    "c": [
+      88,
+      216,
+      191,
+      271,
+      87
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.843904223880918,
+      0.833738722112593,
+      0.7889968845769345,
+      0.7610989843801872,
+      0.7559501537819436
+    ]
+  },
+  {
+    "n": "Estimate; HOUSE HEATING FUEL - Occupied housing units - No fuel used",
+    "c": [
+      37,
+      226,
+      55,
+      41,
+      44
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.942187334930322,
+      0.8374883862716965,
+      0.8165480792354094,
+      0.8122431425561414,
+      0.8095178197401891
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED CHARACTERISTICS - Occupied housing units - Lacking complete plumbing facilities",
+    "c": [
+      230,
+      208,
+      115,
+      279,
+      310
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9323476068718792,
+      0.9193456056250888,
+      0.9185169258832108,
+      0.9181102454668378,
+      0.9165432269881999
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED CHARACTERISTICS - Occupied housing units - Lacking complete kitchen facilities",
+    "c": [
+      112,
+      285,
+      305,
+      103,
+      303
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9615129989434288,
+      0.9538998506697464,
+      0.9508548694725306,
+      0.950701514062473,
+      0.9460423349288672
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPANTS PER ROOM - Occupied housing units - 1.00 or less",
+    "c": [
+      169,
+      182,
+      211,
+      126,
+      119
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9990555369986632,
+      0.9984801263359218,
+      0.9975910661769788,
+      0.997083131897472,
+      0.9961686927706694
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPANTS PER ROOM - Occupied housing units - 1.01 to 1.50",
+    "c": [
+      328,
+      368,
+      367,
+      354,
+      233
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9869340819586512,
+      0.9783485718488124,
+      0.9781145098588122,
+      0.9723499496383368,
+      0.9719295466216592
+    ]
+  },
+  {
+    "n": "Estimate; OCCUPANTS PER ROOM - Occupied housing units - 1.51 or more",
+    "c": [
+      232,
+      56,
+      46,
+      328,
+      368
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9719295466216592,
+      0.963310649522623,
+      0.9630784465277492,
+      0.954597495833622,
+      0.9439987030486624
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - Less than $50,000",
+    "c": [
+      246,
+      235,
+      254,
+      247,
+      245
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8888697890936614,
+      0.8886256960181744,
+      0.8880996920756753,
+      0.8786589013324299,
+      0.8679933654454398
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $50,000 to $99,999",
+    "c": [
+      236,
+      247,
+      234,
+      246,
+      273
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9331715386075252,
+      0.9167425993496596,
+      0.8886256960181744,
+      0.8868213328266606,
+      0.8605507242873726
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $100,000 to $149,999",
+    "c": [
+      248,
+      247,
+      235,
+      237,
+      273
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9519952231220952,
+      0.9357488925016102,
+      0.9331715386075252,
+      0.9326958873933322,
+      0.9039202987620728
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $150,000 to $199,999",
+    "c": [
+      248,
+      236,
+      249,
+      238,
+      256
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9619152906272987,
+      0.9326958873933322,
+      0.9076222621611552,
+      0.9055411948490631,
+      0.9029449214516204
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $200,000 to $299,999",
+    "c": [
+      249,
+      257,
+      258,
+      243,
+      199
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9687406620689208,
+      0.9416914953516742,
+      0.936801996877052,
+      0.9318177423249628,
+      0.929640059724019
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $300,000 to $499,999",
+    "c": [
+      250,
+      142,
+      122,
+      260,
+      121
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.979226383700699,
+      0.9485746870814152,
+      0.9446953950727448,
+      0.9343030900706608,
+      0.9311593334271984
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $500,000 to $999,999",
+    "c": [
+      360,
+      250,
+      67,
+      373,
+      33
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9314547284394306,
+      0.9309753180683976,
+      0.9307582813220344,
+      0.9306382113170562,
+      0.930523987499566
+    ]
+  },
+  {
+    "n": "Estimate; VALUE - Owner-occupied units - $1,000,000 or more",
+    "c": [
+      276,
+      240,
+      373,
+      360,
+      123
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9322347851192658,
+      0.9216230529265532,
+      0.8938992607298243,
+      0.8876788732187314,
+      0.8806845412758091
+    ]
+  },
+  {
+    "n": "Estimate; MORTGAGE STATUS - Owner-occupied units",
+    "c": [
+      243,
+      198,
+      258,
+      257,
+      140
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9964552974583104,
+      0.9915756825632854,
+      0.9901254217083124,
+      0.989870021990646,
+      0.9897379713006704
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage",
+    "c": [
+      258,
+      242,
+      257,
+      140,
+      218
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9966405094511792,
+      0.9964552974583104,
+      0.9940662753598344,
+      0.9912556440982035,
+      0.9911517972785494
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - Less than $300",
+    "c": [
+      262,
+      130,
+      309,
+      335,
+      366
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.8561114999609181,
+      0.8535657708132132,
+      0.8522026465973982,
+      0.8516812164309467,
+      0.8479089594046422
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $300 to $499",
+    "c": [
+      246,
+      254,
+      247,
+      253,
+      262
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9651874768438756,
+      0.9422376766765772,
+      0.9374805671621451,
+      0.9213973229049408,
+      0.8731277095308612
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $500 to $699",
+    "c": [
+      247,
+      245,
+      254,
+      253,
+      234
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9761227808025724,
+      0.9651874768438756,
+      0.9365114019319496,
+      0.9067529295678952,
+      0.8888697890936614
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $700 to $999",
+    "c": [
+      246,
+      248,
+      245,
+      254,
+      236
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9761227808025724,
+      0.9391107137787676,
+      0.9374805671621451,
+      0.935859703103058,
+      0.9357488925016102
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $1,000 to $1,499",
+    "c": [
+      237,
+      236,
+      256,
+      247,
+      205
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9619152906272987,
+      0.9519952231220952,
+      0.9487450190641816,
+      0.9391107137787676,
+      0.929147765278292
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $1,500 to $1,999",
+    "c": [
+      257,
+      243,
+      258,
+      242,
+      238
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9816052817898484,
+      0.977562429477856,
+      0.9753658886421016,
+      0.9723072418987028,
+      0.9687406620689208
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - $2,000 or more",
+    "c": [
+      239,
+      122,
+      142,
+      121,
+      143
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.979226383700699,
+      0.9750831293463902,
+      0.9747459088780978,
+      0.9534675179276776,
+      0.9514458575371189
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - Less than $100",
+    "c": [
+      216,
+      179,
+      194,
+      203,
+      159
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.7870231198405849,
+      0.7844452930962449,
+      0.7600437910508225,
+      0.7495475633774544,
+      0.7450442870096706
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $100 to $199",
+    "c": [
+      253,
+      254,
+      180,
+      245,
+      262
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9518774567434168,
+      0.8795413764248837,
+      0.8476560419191138,
+      0.8446086338198592,
+      0.8414382589117914
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $200 to $299",
+    "c": [
+      254,
+      252,
+      245,
+      246,
+      262
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.964419341744632,
+      0.9518774567434168,
+      0.9213973229049408,
+      0.9067529295678952,
+      0.893291675804938
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $300 to $399",
+    "c": [
+      253,
+      245,
+      246,
+      247,
+      262
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.964419341744632,
+      0.9422376766765772,
+      0.9365114019319496,
+      0.935859703103058,
+      0.9357389122404202
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - $400 or more",
+    "c": [
+      265,
+      266,
+      264,
+      267,
+      268
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9836674956119346,
+      0.9818897868349517,
+      0.9817624715861016,
+      0.979469551909846,
+      0.9730649702163796
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 20.0 percent",
+    "c": [
+      257,
+      199,
+      366,
+      198,
+      242
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9835626181821256,
+      0.9783845064502122,
+      0.9742583657555662,
+      0.9727630928684948,
+      0.9727032705746602
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent",
+    "c": [
+      243,
+      258,
+      242,
+      198,
+      199
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9940662753598344,
+      0.9922176966719092,
+      0.989870021990646,
+      0.9864284712796092,
+      0.9863256449476194
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent",
+    "c": [
+      243,
+      259,
+      257,
+      242,
+      141
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9966405094511792,
+      0.9947864311668492,
+      0.9922176966719092,
+      0.9901254217083124,
+      0.9878321314593924
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent",
+    "c": [
+      258,
+      243,
+      260,
+      141,
+      153
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9947864311668492,
+      0.9910061735159468,
+      0.9867383787889404,
+      0.9867048355223138,
+      0.9865147390028248
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more",
+    "c": [
+      259,
+      9,
+      162,
+      10,
+      341
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9867383787889404,
+      0.98490162260711,
+      0.9830625440780292,
+      0.9830013051531772,
+      0.9820356225351676
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Not computed",
+    "c": [
+      314,
+      309,
+      331,
+      332,
+      196
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.913247479428296,
+      0.91127449900625,
+      0.9078740925136086,
+      0.9074811978354804,
+      0.9037019002608532
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 10.0 percent",
+    "c": [
+      205,
+      242,
+      349,
+      348,
+      197
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9735355115909832,
+      0.9704425367906252,
+      0.9676149210928928,
+      0.967079467991992,
+      0.9665443598826026
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 10.0 to 14.9 percent",
+    "c": [
+      264,
+      265,
+      266,
+      255,
+      205
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9927475626392394,
+      0.9841590175722208,
+      0.9733815703064252,
+      0.9729895051890842,
+      0.972843496599162
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 15.0 to 19.9 percent",
+    "c": [
+      265,
+      263,
+      266,
+      255,
+      267
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9941107684124516,
+      0.9927475626392394,
+      0.9879548434766448,
+      0.9817624715861016,
+      0.9807035740195158
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent",
+    "c": [
+      264,
+      266,
+      267,
+      263,
+      255
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9941107684124516,
+      0.9927105034983956,
+      0.9885864648297652,
+      0.9841590175722208,
+      0.9836674956119346
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent",
+    "c": [
+      265,
+      267,
+      264,
+      255,
+      268
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9927105034983956,
+      0.9909307330168484,
+      0.9879548434766448,
+      0.9818897868349517,
+      0.980888762316986
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent",
+    "c": [
+      266,
+      265,
+      268,
+      264,
+      255
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9909307330168484,
+      0.9885864648297652,
+      0.9864733287077528,
+      0.9807035740195158,
+      0.979469551909846
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more",
+    "c": [
+      267,
+      266,
+      255,
+      265,
+      264
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9864733287077528,
+      0.980888762316986,
+      0.9730649702163796,
+      0.9728730061890384,
+      0.9611884436870954
+    ]
+  },
+  {
+    "n": "Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Not computed",
+    "c": [
+      170,
+      196,
+      263,
+      264,
+      197
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9325704479866628,
+      0.931976992722498,
+      0.9301505059514864,
+      0.929615671924352,
+      0.9292636850932158
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - Less than $200",
+    "c": [
+      272,
+      133,
+      114,
+      271,
+      294
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9118072236415496,
+      0.9073523536170284,
+      0.9055798175062864,
+      0.9041057765713192,
+      0.8659834552668038
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - $200 to $299",
+    "c": [
+      272,
+      216,
+      191,
+      270,
+      88
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.926193342986548,
+      0.9173548489885676,
+      0.9060669799995478,
+      0.9041057765713192,
+      0.9023183794872108
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - $300 to $499",
+    "c": [
+      114,
+      271,
+      133,
+      270,
+      115
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9275813362497468,
+      0.926193342986548,
+      0.9226257371010379,
+      0.9118072236415496,
+      0.9057034074026166
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - $500 to $749",
+    "c": [
+      248,
+      274,
+      236,
+      117,
+      116
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9203276094333048,
+      0.9202841957591256,
+      0.9039202987620728,
+      0.8984019667262221,
+      0.8941004443194793
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - $750 to $999",
+    "c": [
+      117,
+      116,
+      118,
+      293,
+      210
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9736690728739574,
+      0.9707630034269944,
+      0.97011939629824,
+      0.96889598990183,
+      0.965537070106964
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - $1,000 to $1,499",
+    "c": [
+      285,
+      284,
+      279,
+      208,
+      283
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.989357114592578,
+      0.9840047732840248,
+      0.9823340090022246,
+      0.9815275540208254,
+      0.9797929559119728
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - $1,500 or more",
+    "c": [
+      193,
+      241,
+      360,
+      103,
+      373
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9354325836797726,
+      0.9322347851192658,
+      0.9302467451966768,
+      0.9265853627626932,
+      0.9237826221333172
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - Occupied units paying rent - Median (dollars)",
+    "c": [
+      148,
+      151,
+      147,
+      125,
+      127
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.7816758887135176,
+      0.7761661835953864,
+      0.7720230179537456,
+      0.7678125389200993,
+      0.7421028759108927
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT - No rent paid",
+    "c": [
+      286,
+      336,
+      116,
+      115,
+      154
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9874809442614876,
+      0.977822008364056,
+      0.9766140123207192,
+      0.9757596765012998,
+      0.973827765523302
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed)",
+    "c": [
+      208,
+      283,
+      284,
+      282,
+      285
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.999917325085412,
+      0.998641404214882,
+      0.9985859877414052,
+      0.9953880048167192,
+      0.9942337094693364
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - Less than 15.0 percent",
+    "c": [
+      281,
+      282,
+      203,
+      283,
+      208
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9828089754559424,
+      0.9744769283636626,
+      0.9723511389355342,
+      0.9673672523540848,
+      0.9671662732260892
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 15.0 to 19.9 percent",
+    "c": [
+      282,
+      283,
+      208,
+      279,
+      284
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.996168299458234,
+      0.9899564773029668,
+      0.9885939509979416,
+      0.9885466418952832,
+      0.9850373335548446
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 20.0 to 24.9 percent",
+    "c": [
+      283,
+      281,
+      279,
+      208,
+      284
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9962978521777424,
+      0.996168299458234,
+      0.9953880048167192,
+      0.9952489890164086,
+      0.9937785362960422
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 25.0 to 29.9 percent",
+    "c": [
+      279,
+      208,
+      284,
+      282,
+      285
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.998641404214882,
+      0.99843110774633,
+      0.9981629957633176,
+      0.9962978521777424,
+      0.990444360339326
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 30.0 to 34.9 percent",
+    "c": [
+      279,
+      208,
+      283,
+      282,
+      285
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9985859877414052,
+      0.9983023078609752,
+      0.9981629957633176,
+      0.9937785362960422,
+      0.9933827529382284
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 35.0 percent or more",
+    "c": [
+      279,
+      208,
+      284,
+      283,
+      275
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9942337094693364,
+      0.9941799222548832,
+      0.9933827529382284,
+      0.990444360339326,
+      0.989357114592578
+    ]
+  },
+  {
+    "n": "Estimate; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Not computed",
+    "c": [
+      278,
+      114,
+      115,
+      116,
+      134
+    ],
+    "n2": "SELECTED HOUSING CHARACTERISTICS",
+    "r": [
+      0.9874809442614876,
+      0.9860068946114228,
+      0.9841303243100304,
+      0.9814084045506182,
+      0.9805325690152406
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - With own children under 18 years",
+    "c": [
+      296,
+      84,
+      83,
+      324,
+      3
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9996491997219336,
+      0.998190721317322,
+      0.9978375966436016,
+      0.9975480737301532,
+      0.9974040960879936
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family",
+    "c": [
+      300,
+      311,
+      306,
+      289,
+      153
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9999995609395184,
+      0.9992100307278386,
+      0.998863393205098,
+      0.9953348424891052,
+      0.9953256104740744
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family - With own children under 18 years",
+    "c": [
+      311,
+      306,
+      288,
+      300,
+      287
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9958031909564616,
+      0.9957933613932692,
+      0.9953348424891052,
+      0.9953298470354384,
+      0.9950319489741974
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Male householder, no wife present, family",
+    "c": [
+      291,
+      305,
+      301,
+      0,
+      338
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.99200521596705,
+      0.9908257809030204,
+      0.9902392550761756,
+      0.9897513237327517,
+      0.9897349752662764
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Male householder, no wife present, family - With own children under 18 years",
+    "c": [
+      290,
+      325,
+      138,
+      331,
+      4
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.99200521596705,
+      0.9869059896645864,
+      0.9867181717709504,
+      0.9864520041698579,
+      0.9862010896616668
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present, family",
+    "c": [
+      293,
+      154,
+      116,
+      310,
+      115
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9953092980274744,
+      0.9900167743279732,
+      0.9872083476464344,
+      0.9869616867467612,
+      0.986425706465374
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present, family - With own children under 18 years",
+    "c": [
+      292,
+      134,
+      116,
+      117,
+      137
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9953092980274744,
+      0.986726053699242,
+      0.9861941972019856,
+      0.9851199857105516,
+      0.9839531770601868
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone",
+    "c": [
+      231,
+      182,
+      217,
+      169,
+      295
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9873292067121674,
+      0.986785502388629,
+      0.9857222140134748,
+      0.9852144154693636,
+      0.9834786682635132
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over",
+    "c": [
+      128,
+      297,
+      23,
+      308,
+      14
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9914175930883198,
+      0.9894100177055828,
+      0.9883647759168086,
+      0.9868006983111284,
+      0.9862867699860136
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years",
+    "c": [
+      287,
+      83,
+      324,
+      84,
+      4
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9996491997219336,
+      0.9985244602237852,
+      0.9983066551130592,
+      0.9983053398166086,
+      0.998186866495744
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over",
+    "c": [
+      23,
+      18,
+      21,
+      12,
+      13
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9996671394144724,
+      0.9996045825320624,
+      0.9995310564602476,
+      0.9983291344716738,
+      0.9981857321424638
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Average household size",
+    "c": [
+      299,
+      209,
+      277,
+      28,
+      66
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9193906550404612,
+      0.8145969074459146,
+      0.27866382457951644,
+      0.2382041594932895,
+      0.2254588172117783
+    ]
+  },
+  {
+    "n": "Estimate; HOUSEHOLDS BY TYPE - Average family size",
+    "c": [
+      298,
+      209,
+      28,
+      66,
+      53
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9193906550404612,
+      0.7410207531647549,
+      0.26616941331335137,
+      0.2523959008809852,
+      0.24595996807616854
+    ]
+  },
+  {
+    "n": "Estimate; RELATIONSHIP - Population in households - Spouse",
+    "c": [
+      288,
+      311,
+      306,
+      289,
+      153
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9999995609395184,
+      0.9992007745688576,
+      0.9988500479379374,
+      0.9953298470354384,
+      0.9953249623843018
+    ]
+  },
+  {
+    "n": "Estimate; RELATIONSHIP - Population in households - Child",
+    "c": [
+      325,
+      83,
+      4,
+      296,
+      324
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9985130298189744,
+      0.998332166735365,
+      0.9980762130551356,
+      0.9978483542214074,
+      0.9975988533171372
+    ]
+  },
+  {
+    "n": "Estimate; RELATIONSHIP - Population in households - Other relatives",
+    "c": [
+      329,
+      290,
+      367,
+      168,
+      354
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.984248723488958,
+      0.9840872235892231,
+      0.9800653595612192,
+      0.978968299820134,
+      0.977487266340084
+    ]
+  },
+  {
+    "n": "Estimate; RELATIONSHIP - Population in households - Nonrelatives",
+    "c": [
+      305,
+      304,
+      326,
+      7,
+      6
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9882234073188602,
+      0.9875387403528754,
+      0.9862909743018762,
+      0.9858994008727934,
+      0.98471780080495
+    ]
+  },
+  {
+    "n": "Estimate; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner",
+    "c": [
+      169,
+      119,
+      19,
+      16,
+      17
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9893886599990108,
+      0.9885813806659649,
+      0.9885257478000922,
+      0.9882528718362668,
+      0.9881499467852684
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Males 15 years and over - Never married",
+    "c": [
+      310,
+      338,
+      7,
+      16,
+      20
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9972183893041338,
+      0.9943432489897188,
+      0.9942698580388972,
+      0.9932179351595544,
+      0.9931058718160242
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Males 15 years and over - Now married, except separated",
+    "c": [
+      311,
+      288,
+      300,
+      9,
+      289
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9999085669438514,
+      0.998863393205098,
+      0.9988500479379374,
+      0.9959453400751968,
+      0.9957933613932692
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Males 15 years and over - Separated",
+    "c": [
+      312,
+      329,
+      136,
+      292,
+      290
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9949561477412849,
+      0.9868576899381856,
+      0.9850808382725322,
+      0.9849137726226728,
+      0.981665531970221
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Males 15 years and over - Widowed",
+    "c": [
+      313,
+      297,
+      23,
+      128,
+      340
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9966417510715481,
+      0.9954284982546844,
+      0.9951778998672935,
+      0.9951612840989884,
+      0.9948791486160304
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Males 15 years and over - Divorced",
+    "c": [
+      314,
+      118,
+      331,
+      119,
+      139
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9961469297750896,
+      0.9888819037725516,
+      0.9877819614648192,
+      0.9870748567174459,
+      0.985922001739964
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Females 15 years and over - Never married",
+    "c": [
+      305,
+      7,
+      208,
+      338,
+      20
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9972183893041338,
+      0.9906048419581394,
+      0.9893552274847444,
+      0.9890434106509004,
+      0.9886347821152384
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Females 15 years and over - Now married, except separated",
+    "c": [
+      306,
+      288,
+      300,
+      289,
+      9
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9999085669438514,
+      0.9992100307278386,
+      0.9992007745688576,
+      0.9958031909564616,
+      0.995557511888528
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Females 15 years and over - Separated",
+    "c": [
+      307,
+      329,
+      136,
+      292,
+      135
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9949561477412849,
+      0.985841108451434,
+      0.98478969041397,
+      0.9832657400176332,
+      0.9822216442829436
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Females 15 years and over - Widowed",
+    "c": [
+      308,
+      23,
+      297,
+      340,
+      18
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9966417510715481,
+      0.996255199638432,
+      0.9957690601467399,
+      0.9956406463553609,
+      0.9949183473346808
+    ]
+  },
+  {
+    "n": "Estimate; MARITAL STATUS - Females 15 years and over - Divorced",
+    "c": [
+      309,
+      118,
+      182,
+      119,
+      211
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9961469297750896,
+      0.9920526364399742,
+      0.991785389719904,
+      0.99166167798368,
+      0.9909622142707902
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Responsible for grandchildren",
+    "c": [
+      320,
+      321,
+      319,
+      317,
+      318
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.99829312187116,
+      0.9960411134473316,
+      0.9945170197137072,
+      0.9923406107069233,
+      0.9889240111666842
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - Less than 1 year",
+    "c": [
+      321,
+      315,
+      320,
+      317,
+      318
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9870231246314264,
+      0.9866854153378368,
+      0.9818501820600284,
+      0.976301675076359,
+      0.9723642608220242
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 1 or 2 years",
+    "c": [
+      315,
+      321,
+      320,
+      319,
+      318
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9923406107069233,
+      0.9904378135485188,
+      0.9896647406007328,
+      0.981065668837742,
+      0.9775563496455442
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 3 or 4 years",
+    "c": [
+      315,
+      320,
+      321,
+      319,
+      317
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9889240111666842,
+      0.9881659157231024,
+      0.983710918003068,
+      0.9783005130070922,
+      0.9775563496455442
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 5 or more years",
+    "c": [
+      320,
+      315,
+      321,
+      317,
+      329
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9946192852094196,
+      0.9945170197137072,
+      0.9877667428245508,
+      0.981065668837742,
+      0.9799847494251988
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents responsible for own grandchildren under 18 years - Who are female",
+    "c": [
+      315,
+      319,
+      321,
+      317,
+      318
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.99829312187116,
+      0.9946192852094196,
+      0.9898561921891792,
+      0.9896647406007328,
+      0.9881659157231024
+    ]
+  },
+  {
+    "n": "Estimate; GRANDPARENTS - Number of grandparents responsible for own grandchildren under 18 years - Who are married",
+    "c": [
+      315,
+      317,
+      320,
+      319,
+      316
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9960411134473316,
+      0.9904378135485188,
+      0.9898561921891792,
+      0.9877667428245508,
+      0.9870231246314264
+    ]
+  },
+  {
+    "n": "Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool",
+    "c": [
+      78,
+      73,
+      74,
+      80,
+      79
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9930198179060998,
+      0.9929412544596884,
+      0.9927798850613874,
+      0.9924834271032268,
+      0.992477795618532
+    ]
+  },
+  {
+    "n": "Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten",
+    "c": [
+      3,
+      2,
+      324,
+      296,
+      83
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9978198889846484,
+      0.9975998699387206,
+      0.9968718239721024,
+      0.9960781715245494,
+      0.9959946308785292
+    ]
+  },
+  {
+    "n": "Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)",
+    "c": [
+      83,
+      4,
+      3,
+      296,
+      84
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.999690957828112,
+      0.9996615260166928,
+      0.999602765981545,
+      0.9983066551130592,
+      0.9980520028303856
+    ]
+  },
+  {
+    "n": "Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)",
+    "c": [
+      301,
+      83,
+      4,
+      5,
+      324
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9985130298189744,
+      0.9979401882130038,
+      0.9978800333499508,
+      0.9978597774650182,
+      0.9966498866904648
+    ]
+  },
+  {
+    "n": "Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school",
+    "c": [
+      6,
+      305,
+      338,
+      303,
+      19
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9942601257072472,
+      0.9892195925074918,
+      0.9869526733942656,
+      0.9862909743018762,
+      0.9857078473406556
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over",
+    "c": [
+      17,
+      16,
+      20,
+      19,
+      365
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9999195821455352,
+      0.9997727443849306,
+      0.9996771093817785,
+      0.9994850303802364,
+      0.9993405535990652
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than 9th grade",
+    "c": [
+      232,
+      367,
+      368,
+      354,
+      302
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9869340819586512,
+      0.9869261427712848,
+      0.986737726936006,
+      0.9811670150160752,
+      0.97744690789941
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - 9th to 12th grade, no diploma",
+    "c": [
+      136,
+      290,
+      307,
+      312,
+      137
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9927648372569899,
+      0.9878942627610504,
+      0.9868576899381856,
+      0.985841108451434,
+      0.9856063172626176
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)",
+    "c": [
+      308,
+      313,
+      336,
+      139,
+      340
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9899210262378922,
+      0.9893219651392654,
+      0.9880633973435118,
+      0.9863586249643164,
+      0.985314804362264
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, no degree",
+    "c": [
+      139,
+      119,
+      0,
+      349,
+      57
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9928475139459716,
+      0.9907822058504728,
+      0.9904372197457526,
+      0.9897466353926916,
+      0.9897314786861252
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Associate's degree",
+    "c": [
+      101,
+      140,
+      11,
+      10,
+      311
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9869846676284779,
+      0.9864200288700598,
+      0.985818892728712,
+      0.9850863442759024,
+      0.9850300360069164
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree",
+    "c": [
+      92,
+      105,
+      158,
+      157,
+      121
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.99665179581103,
+      0.9925083235125844,
+      0.9905522081901768,
+      0.9898589530752384,
+      0.9897109257878078
+    ]
+  },
+  {
+    "n": "Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree",
+    "c": [
+      92,
+      105,
+      333,
+      122,
+      123
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.984682691810252,
+      0.9802744179394672,
+      0.979592908728361,
+      0.9772502598122772,
+      0.9710988562657832
+    ]
+  },
+  {
+    "n": "Estimate; VETERAN STATUS - Civilian population 18 years and over - Civilian veterans",
+    "c": [
+      130,
+      366,
+      198,
+      205,
+      173
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9708759203927309,
+      0.9632276996796272,
+      0.9626466418874114,
+      0.9595884045055388,
+      0.9588037654720818
+    ]
+  },
+  {
+    "n": "Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability",
+    "c": [
+      339,
+      340,
+      117,
+      118,
+      116
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9958812556842108,
+      0.9908713373351934,
+      0.9906731399239632,
+      0.9905244922194092,
+      0.9904229050286324
+    ]
+  },
+  {
+    "n": "Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability",
+    "c": [
+      339,
+      336,
+      293,
+      348,
+      205
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9859096268324296,
+      0.979552725844129,
+      0.9759330804582232,
+      0.9741032517926788,
+      0.9735384713154918
+    ]
+  },
+  {
+    "n": "Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years",
+    "c": [
+      365,
+      16,
+      57,
+      1,
+      19
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9993811696410956,
+      0.9993740714221148,
+      0.9993488818391648,
+      0.9993172260524624,
+      0.9992712288136941
+    ]
+  },
+  {
+    "n": "Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years - With a disability",
+    "c": [
+      336,
+      117,
+      116,
+      337,
+      118
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9958812556842108,
+      0.9868955901387492,
+      0.9861308383176304,
+      0.9859096268324296,
+      0.9855146347716932
+    ]
+  },
+  {
+    "n": "Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over - With a disability",
+    "c": [
+      297,
+      18,
+      23,
+      313,
+      21
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9960286128742613,
+      0.9957118618896944,
+      0.9957104588420816,
+      0.9956406463553609,
+      0.9953795380120992
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house",
+    "c": [
+      1,
+      365,
+      57,
+      25,
+      16
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9993785610559104,
+      0.9993730152551932,
+      0.9992852460302529,
+      0.9992311900589578,
+      0.9990982761396546
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S.",
+    "c": [
+      210,
+      343,
+      331,
+      309,
+      314
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9952730046420236,
+      0.9924051974122946,
+      0.984684005340414,
+      0.9835074285085038,
+      0.9826208654270662
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Same county",
+    "c": [
+      342,
+      210,
+      291,
+      331,
+      86
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9924051974122946,
+      0.9888899527739972,
+      0.9831471730417984,
+      0.9827001958754228,
+      0.9809281761373584
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county",
+    "c": [
+      345,
+      342,
+      366,
+      210,
+      346
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9467722651089606,
+      0.945022945267899,
+      0.9422787157138008,
+      0.9374300491973238,
+      0.9358164963288579
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Same state",
+    "c": [
+      344,
+      366,
+      257,
+      206,
+      342
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9467722651089606,
+      0.8740881385112141,
+      0.8737928057387319,
+      0.8722383556063106,
+      0.871870346367937
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Different state",
+    "c": [
+      351,
+      344,
+      335,
+      342,
+      210
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9622532891636336,
+      0.9358164963288579,
+      0.9178321324224028,
+      0.9093902702336948,
+      0.9078237677371568
+    ]
+  },
+  {
+    "n": "Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad",
+    "c": [
+      357,
+      105,
+      7,
+      92,
+      282
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9763945041425696,
+      0.9533857654737418,
+      0.9431152441332248,
+      0.9407178431933024,
+      0.9405443957029636
+    ]
+  },
+  {
+    "n": "Estimate; PLACE OF BIRTH - Total population - Native",
+    "c": [
+      349,
+      119,
+      231,
+      169,
+      211
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9998861823858909,
+      0.994589280419936,
+      0.9945722243867312,
+      0.9932737937270912,
+      0.993191756000578
+    ]
+  },
+  {
+    "n": "Estimate; PLACE OF BIRTH - Total population - Native - Born in United States",
+    "c": [
+      348,
+      119,
+      231,
+      169,
+      120
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9998861823858909,
+      0.9941297943897736,
+      0.9938419633469178,
+      0.992545928414826,
+      0.992527200999024
+    ]
+  },
+  {
+    "n": "Estimate; PLACE OF BIRTH - Total population - Native - Born in United States - State of residence",
+    "c": [
+      349,
+      348,
+      152,
+      106,
+      341
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9797084337121515,
+      0.9792749306030802,
+      0.9790719754185278,
+      0.9781990555963646,
+      0.9781154455078906
+    ]
+  },
+  {
+    "n": "Estimate; PLACE OF BIRTH - Total population - Native - Born in United States - Different state",
+    "c": [
+      346,
+      185,
+      335,
+      186,
+      344
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9622532891636336,
+      0.9501177013768044,
+      0.9399959913936402,
+      0.9308475080421534,
+      0.9216949954263736
+    ]
+  },
+  {
+    "n": "Estimate; PLACE OF BIRTH - Total population - Native - Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",
+    "c": [
+      356,
+      355,
+      60,
+      347,
+      133
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9997492824425934,
+      0.9593633664601972,
+      0.87438374799172,
+      0.8603839247442518,
+      0.8500105138365425
+    ]
+  },
+  {
+    "n": "Estimate; U.S. CITIZENSHIP STATUS - Foreign-born population - Naturalized U.S. citizen",
+    "c": [
+      358,
+      368,
+      367,
+      354,
+      363
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9925590851574227,
+      0.9768467377393978,
+      0.9744120933834152,
+      0.9724740777507316,
+      0.9527033615780326
+    ]
+  },
+  {
+    "n": "Estimate; U.S. CITIZENSHIP STATUS - Foreign-born population - Not a U.S. citizen",
+    "c": [
+      368,
+      367,
+      358,
+      328,
+      302
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9939189878515048,
+      0.9937839604521408,
+      0.9932451517486602,
+      0.9811670150160752,
+      0.977487266340084
+    ]
+  },
+  {
+    "n": "Estimate; YEAR OF ENTRY - Native - Entered 2010 or later",
+    "c": [
+      352,
+      356,
+      347,
+      60,
+      312
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9593633664601972,
+      0.9528045916424941,
+      0.8296516320113033,
+      0.8029885465791514,
+      0.800241093993124
+    ]
+  },
+  {
+    "n": "Estimate; YEAR OF ENTRY - Native - Entered before 2010",
+    "c": [
+      352,
+      355,
+      60,
+      347,
+      133
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9997492824425934,
+      0.9528045916424941,
+      0.8770103792269487,
+      0.859832483298622,
+      0.8516470959047245
+    ]
+  },
+  {
+    "n": "Estimate; YEAR OF ENTRY - Foreign born - Entered 2010 or later",
+    "c": [
+      347,
+      194,
+      354,
+      358,
+      203
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9763945041425696,
+      0.9465812859020564,
+      0.9442592176051824,
+      0.9402644036324416,
+      0.9366219324052992
+    ]
+  },
+  {
+    "n": "Estimate; YEAR OF ENTRY - Foreign born - Entered before 2010",
+    "c": [
+      368,
+      354,
+      353,
+      367,
+      302
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9934434584683902,
+      0.9932451517486602,
+      0.9925590851574227,
+      0.9920106566740176,
+      0.972390412090984
+    ]
+  },
+  {
+    "n": "Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Europe",
+    "c": [
+      371,
+      372,
+      176,
+      386,
+      394
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.959435812304905,
+      0.9395957257993154,
+      0.9243575785965414,
+      0.9041455655585326,
+      0.8928731416283738
+    ]
+  },
+  {
+    "n": "Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Asia",
+    "c": [
+      373,
+      67,
+      33,
+      374,
+      54
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.992239665843648,
+      0.9900524894225768,
+      0.9899143242027738,
+      0.9865953816256612,
+      0.981934620169774
+    ]
+  },
+  {
+    "n": "Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Africa",
+    "c": [
+      398,
+      375,
+      376,
+      105,
+      281
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9523509779708208,
+      0.8373726772243556,
+      0.8104826568809418,
+      0.8071788383438288,
+      0.8054836545862974
+    ]
+  },
+  {
+    "n": "Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Oceania",
+    "c": [
+      45,
+      68,
+      41,
+      72,
+      44
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9068387195473973,
+      0.8516940766858468,
+      0.8498705622733278,
+      0.8410377483927722,
+      0.8386914216746632
+    ]
+  },
+  {
+    "n": "Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Latin America",
+    "c": [
+      370,
+      369,
+      368,
+      354,
+      367
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9818226249928164,
+      0.9758656635749858,
+      0.9735563095050124,
+      0.9690585080437154,
+      0.9687263111443738
+    ]
+  },
+  {
+    "n": "Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Northern America",
+    "c": [
+      90,
+      22,
+      332,
+      12,
+      21
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8849814833489981,
+      0.8795265533851114,
+      0.8756933452461614,
+      0.8731820531901605,
+      0.8715081942348691
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over",
+    "c": [
+      57,
+      1,
+      25,
+      0,
+      16
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9999680332446744,
+      0.999884728771558,
+      0.999832453668461,
+      0.9998101832295796,
+      0.999678463638736
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only",
+    "c": [
+      63,
+      349,
+      348,
+      242,
+      198
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9925947345338793,
+      0.9890127388546032,
+      0.9889606073691456,
+      0.9879507528740852,
+      0.9857858939599636
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English",
+    "c": [
+      368,
+      354,
+      358,
+      328,
+      302
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9969456858037667,
+      0.9937839604521408,
+      0.9920106566740176,
+      0.9869261427712848,
+      0.9800653595612192
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Speak English less than \"very well\"",
+    "c": [
+      367,
+      354,
+      358,
+      328,
+      370
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9969456858037667,
+      0.9939189878515048,
+      0.9934434584683902,
+      0.986737726936006,
+      0.9783727022405186
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish",
+    "c": [
+      370,
+      58,
+      367,
+      368,
+      363
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9965394159635308,
+      0.9956008573937186,
+      0.9797065023942808,
+      0.9760856466504828,
+      0.9758656635749858
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than \"very well\"",
+    "c": [
+      369,
+      58,
+      363,
+      368,
+      367
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9965394159635308,
+      0.9868711633220963,
+      0.9818226249928164,
+      0.9783727022405186,
+      0.9765618879369328
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages",
+    "c": [
+      372,
+      359,
+      394,
+      176,
+      353
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9816291588722624,
+      0.959435812304905,
+      0.9155552988619512,
+      0.9060339566800673,
+      0.8933349752300471
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than \"very well\"",
+    "c": [
+      371,
+      359,
+      176,
+      394,
+      175
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9816291588722624,
+      0.9395957257993154,
+      0.8972336122458342,
+      0.867256177634083,
+      0.8561571784253764
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages",
+    "c": [
+      374,
+      33,
+      67,
+      360,
+      54
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.995052336689157,
+      0.9939673976765356,
+      0.9939114833656038,
+      0.992239665843648,
+      0.9897437692317742
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than \"very well\"",
+    "c": [
+      373,
+      33,
+      67,
+      360,
+      54
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.995052336689157,
+      0.9879532789981827,
+      0.9879274332217106,
+      0.9865953816256612,
+      0.9826606889590054
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages",
+    "c": [
+      376,
+      378,
+      161,
+      281,
+      310
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9767136572624092,
+      0.8889035740253449,
+      0.8571981086875461,
+      0.8570433592701133,
+      0.8549663686455211
+    ]
+  },
+  {
+    "n": "Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than \"very well\"",
+    "c": [
+      375,
+      378,
+      163,
+      161,
+      281
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9767136572624092,
+      0.8981268213430615,
+      0.8363938647756656,
+      0.8348810757560129,
+      0.8328789955004062
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - American",
+    "c": [
+      262,
+      205,
+      314,
+      309,
+      366
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9026687868483476,
+      0.8965602528832846,
+      0.8941599474327889,
+      0.8938917495750691,
+      0.8938094530467232
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Arab",
+    "c": [
+      376,
+      375,
+      161,
+      220,
+      75
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8981268213430615,
+      0.8889035740253449,
+      0.8759922174809659,
+      0.8700224638168433,
+      0.8661297930354016
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Czech",
+    "c": [
+      385,
+      249,
+      255,
+      256,
+      257
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.7908225771655012,
+      0.7748489633318134,
+      0.7718803876390005,
+      0.762570363743429,
+      0.7618278821567624
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Danish",
+    "c": [
+      399,
+      382,
+      402,
+      396,
+      207
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.7869419730312269,
+      0.7728567642762078,
+      0.7562854620171393,
+      0.7456156198446863,
+      0.7427147142408977
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Dutch",
+    "c": [
+      64,
+      385,
+      257,
+      382,
+      256
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.7346882829203651,
+      0.7328317137252649,
+      0.7225208072429141,
+      0.7215389067405618,
+      0.7153324332026286
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - English",
+    "c": [
+      396,
+      64,
+      257,
+      402,
+      335
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9875911362853372,
+      0.9433250701094646,
+      0.931072519218193,
+      0.9255799863468832,
+      0.9249925059057632
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - French (except Basque)",
+    "c": [
+      384,
+      64,
+      396,
+      382,
+      257
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8381820431575003,
+      0.8370579535034812,
+      0.8330119188897737,
+      0.8304129747412938,
+      0.8190702615958244
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - French Canadian",
+    "c": [
+      383,
+      388,
+      396,
+      64,
+      382
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8381820431575003,
+      0.6138305058709347,
+      0.5786896357844786,
+      0.5732555821146875,
+      0.568486685306162
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - German",
+    "c": [
+      64,
+      256,
+      257,
+      199,
+      366
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9327931231547224,
+      0.9206814760739909,
+      0.913528542242757,
+      0.913061504677128,
+      0.9043877155122408
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Greek",
+    "c": [
+      359,
+      268,
+      255,
+      371,
+      267
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9041455655585326,
+      0.8839392126535364,
+      0.8814900558921813,
+      0.8722957414176505,
+      0.8714668221734868
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Hungarian",
+    "c": [
+      295,
+      401,
+      14,
+      213,
+      215
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8124105160200223,
+      0.8035255906920828,
+      0.8018418222323568,
+      0.7993091230400474,
+      0.7966975127803171
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Irish",
+    "c": [
+      64,
+      199,
+      366,
+      257,
+      255
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9613107785115212,
+      0.9442768482820554,
+      0.9297194170601104,
+      0.9295260841750491,
+      0.9253003130234936
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Italian",
+    "c": [
+      388,
+      268,
+      255,
+      267,
+      386
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9022225036979435,
+      0.8677798282514236,
+      0.8515255219334533,
+      0.8489887602017633,
+      0.8483415386963699
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Lithuanian",
+    "c": [
+      392,
+      386,
+      388,
+      255,
+      267
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8879009611932313,
+      0.8422765068693353,
+      0.8082718746585832,
+      0.7930138424671852,
+      0.7908757216330492
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Norwegian",
+    "c": [
+      399,
+      385,
+      380,
+      400,
+      64
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8729747274121187,
+      0.6608493718431286,
+      0.6513169358301205,
+      0.6092428126709979,
+      0.5903439513262171
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Polish",
+    "c": [
+      390,
+      267,
+      255,
+      266,
+      265
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8879009611932313,
+      0.8372670694685018,
+      0.8253984189794141,
+      0.8246886419662885,
+      0.8238463048370254
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Portuguese",
+    "c": [
+      384,
+      383,
+      71,
+      388,
+      239
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.4982297668828753,
+      0.4647124696200259,
+      0.4097804411693941,
+      0.3783895737419259,
+      0.36644899237172013
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Russian",
+    "c": [
+      371,
+      103,
+      334,
+      213,
+      14
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9155552988619512,
+      0.9021486858226696,
+      0.8990619077607274,
+      0.8979606101559872,
+      0.8958380391562297
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Scotch-Irish",
+    "c": [
+      396,
+      382,
+      256,
+      344,
+      335
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.911580116001421,
+      0.8930746106537317,
+      0.8863011717538641,
+      0.8834928035963913,
+      0.8752576905684033
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Scottish",
+    "c": [
+      382,
+      64,
+      257,
+      256,
+      366
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9875911362853372,
+      0.9418647475326191,
+      0.9338731081287562,
+      0.9284013770428652,
+      0.9242537212796051
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Slovak",
+    "c": [
+      387,
+      392,
+      215,
+      401,
+      390
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.6715062871067853,
+      0.5271238275816047,
+      0.5069160813719414,
+      0.4918068522206005,
+      0.4892853349933495
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Subsaharan African",
+    "c": [
+      361,
+      293,
+      281,
+      292,
+      282
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9523509779708208,
+      0.8377231498467483,
+      0.8336961105398917,
+      0.8304108144844295,
+      0.8291114118057522
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Swedish",
+    "c": [
+      391,
+      385,
+      64,
+      249,
+      380
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8729747274121187,
+      0.7962897874872952,
+      0.7921800903559216,
+      0.7879910854408038,
+      0.7869419730312269
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Swiss",
+    "c": [
+      402,
+      385,
+      382,
+      396,
+      64
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8132930601552861,
+      0.7983444155542961,
+      0.7934542216908299,
+      0.7863432467977999,
+      0.7793395080727092
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Ukrainian",
+    "c": [
+      359,
+      394,
+      371,
+      213,
+      295
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.8714062155528726,
+      0.8382812459965089,
+      0.8247111421965416,
+      0.8209179744842175,
+      0.8151031786611337
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - Welsh",
+    "c": [
+      382,
+      396,
+      64,
+      257,
+      385
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.9255799863468832,
+      0.9180406375954584,
+      0.888354368943602,
+      0.8667178436978741,
+      0.8663513104286142
+    ]
+  },
+  {
+    "n": "Estimate; ANCESTRY - Total population - West Indian (excluding Hispanic origin groups)",
+    "c": [
+      372,
+      60,
+      371,
+      87,
+      356
+    ],
+    "n2": "SELECTED SOCIAL CHARACTERISTICS",
+    "r": [
+      0.7331601269778787,
+      0.6791280631725765,
+      0.6768447045879736,
+      0.6455782407153015,
+      0.6426356165983598
+    ]
+  }
+]

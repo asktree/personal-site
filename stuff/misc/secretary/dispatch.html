@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet">
+<head>
+    <script type="text/javascript">
+      // Your Client ID can be retrieved from your project in the Google
+      // Developer Console, https://console.developers.google.com
+      var CLIENT_ID = '499744196575-9uqbp59kv8pvsmg5g6u5s0ghfm2o48q0.apps.googleusercontent.com';
+
+      var SCOPES = ["https://www.googleapis.com/auth/calendar.readonly"];
+
+      /**
+       * Check if current user has authorized this application.
+       */
+      function checkAuth() {
+        gapi.auth.authorize(
+          {
+            'client_id': CLIENT_ID,
+            'scope': SCOPES.join(' '),
+            'immediate': true
+          }, handleAuthResult);
+      }
+
+      /**
+       * Handle response from authorization server.
+       *
+       * @param {Object} authResult Authorization result.
+       */
+      function handleAuthResult(authResult) {
+        var authorizeDiv = document.getElementById('authorize-div');
+        if (authResult && !authResult.error) {
+          // Hide auth UI, then load client library.
+          authorizeDiv.style.display = 'none';
+          loadCalendarApi();
+        } else {
+          // Show auth UI, allowing the user to initiate authorization by
+          // clicking authorize button.
+          authorizeDiv.style.display = 'inline';
+        }
+      }
+
+      /**
+       * Initiate auth flow in response to user clicking authorize button.
+       *
+       * @param {Event} event Button click event.
+       */
+      function handleAuthClick(event) {
+        gapi.auth.authorize(
+          {client_id: CLIENT_ID, scope: SCOPES, immediate: false},
+          handleAuthResult);
+        return false;
+      }
+
+      /**
+       * Load Google Calendar client library. List upcoming events
+       * once client library is loaded.
+       */
+      function loadCalendarApi() {
+        gapi.client.load('calendar', 'v3');
+      }
+	  
+	  function quickAddRequest(element) {
+		var request = gapi.client.calendar.events.quickAdd({
+			'calendarId': 'primary',
+			'text': $(element).text()
+		});
+
+		function handleResponse(response) {
+			console.log(response)
+			if (response.status == "confirmed"){
+				element.className += " confirmed";
+				confirmation = document.createElement("div");
+				confirmation.className = "confirmation";
+				confirmation.textContent = response.summary;
+				element.appendChild(confirmation);
+			}
+		}
+		request.execute(handleResponse);
+	  }
+	  
+
+
+    </script>
+    <script src="https://apis.google.com/js/client.js?onload=checkAuth">
+    </script>
+	<style type='text/css'>
+	#queuewrap {
+		//float:left;
+		overflow: auto;
+		background-color: #555;
+		height: 100%;
+		position: relative;
+	}
+	
+	#queue{
+		position: absolute;
+		bottom: 0px;
+		width: 100%;
+		box-shadow: 0px -5px 15px 0px #222;
+	}
+	
+	#trashwrap {
+		float: left;
+		width: 200px;
+		height: 100%;
+		background-color: #eee;
+		border-right: #bbb 1px solid;
+		position: relative;
+	}
+	
+	#trash {
+		position: absolute;
+		bottom: 0px;
+		width: 100%;
+	}
+
+	.email {
+		padding: 10px;
+		border-bottom: #bbb 1px solid;
+		background-color: #eee;
+	}
+	
+	#queue .email.open {
+		min-height: 500px;
+	}
+	
+	#trash .email{
+		opacity: .8;
+	}
+	
+	.unhandled {
+
+	}
+
+	body {
+		margin: 0px;
+		height: 100%;
+	}
+	
+	html {
+		height: 100%;
+	}
+	</style>
+</head>
+<body>
+	<div id="authorize-div" style="display: none">
+      <span>Authorize access to Google Calendar API</span>
+      <!--Button for the user to click to initiate auth sequence -->
+      <button id="authorize-button" onclick="handleAuthClick(event)">
+        Authorize
+      </button>
+    </div>
+	<div id="trashwrap">
+		Mark read <br>
+		Archive
+		<div id="trash">
+		</div>
+	</div>
+	<div id="queuewrap">
+		<div id="queue">
+			<div class="email unhandled"><b>You've got mail 6</b></div>
+			<div class="email unhandled"><b>You've got mail 5</b></div>
+			<div class="email unhandled"><b>You've got mail 4</b></div>
+			<div class="email unhandled"><b>You've got mail 3</b></div>
+			<div class="email unhandled"><b>You've got mail 2</b></div>
+			<div class="email unhandled"><b>You've got mail 1</b></div>
+			<div class="email unhandled"><b>You've got mail 6</b></div>
+			<div class="email unhandled"><b>You've got mail 5</b></div>
+			<div class="email unhandled"><b>You've got mail 4</b></div>
+			<div class="email unhandled"><b>You've got mail 3</b></div>
+			<div class="email unhandled"><b>You've got mail 2</b></div>
+			<div class="email unhandled"><b>You've got mail 1</b></div>
+		</div>
+	</div>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="http://ichord.github.io/Caret.js/src/jquery.caret.js"></script>
+<script>
+
+//temporary
+$.fn.animateTo = function(appendTo, destination, duration, easing, complete) {
+  if(appendTo !== 'appendTo'     &&
+     appendTo !== 'prependTo'    &&
+     appendTo !== 'insertBefore' &&
+     appendTo !== 'insertAfter') return this;
+  var target = this.clone(true).css('visibility','hidden')[appendTo](destination);
+  this.css({
+    'position' : 'relative',
+    'top'      : '0px',
+    'left'     : '0px'
+  }).animate({
+    'top'  : (target.offset().top - this.offset().top)+'px',
+    'left' : (target.offset().left - this.offset().left)+'px'
+  }, duration, easing, function() {
+    target.replaceWith($(this));
+    $(this).css({
+      'position' : 'static',
+      'top'      : '',
+      'left'     : ''
+    });
+    if($.isFunction(complete)) complete.call(this);
+  });
+}
+
+$('body').on('keydown', function (e) {
+	var keyCode = e.keyCode || e.which;
+	console.log(keyCode);
+	
+	//left -> archive
+	if (keyCode == 37){
+		$('#queue .unhandled.email:last')
+			.removeClass("unhandled")
+			.animateTo('appendTo', '#trash', 500)
+			;
+	}
+	
+	//up -> star
+	else if (keyCode == 38){
+		$('#queue .unhandled.email:last')
+			.removeClass("unhandled")
+			.css("background-color","#ff5")
+			.animate({opacity:"0"}, function(){$(this).remove();})
+			;
+	}
+	
+	//down -> open
+	else if (keyCode == 40){
+		$('#queue .unhandled.email:last')
+			.addClass("open")
+			;
+	}
+	
+});
+
+function showme() {
+	return lines = $('#queue').html();
+}
+
+
+</script>
+
+</body>

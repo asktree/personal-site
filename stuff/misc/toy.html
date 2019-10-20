@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+svg = d3.select("body").append("svg")
+	.attr("width", 1000)
+	.attr("height", 1000)
+	;
+d3.select("body")
+	.on("keydown", addlink)
+	.on("keyup", remlink)
+	;
+sim = d3.forceSimulation()
+	.force("rope", d3.forceLink().strength(.1).distance(0).iterations(10))
+	;
+trail = svg.append("g")
+
+s = 500
+h = s*Math.sqrt(3)/2
+
+doings = [
+	{fx: 250, fy:500+(h/2)},
+	{fx: 750, fy:500+(h/2)},
+	{fx: 500, fy:500-(h/2)},
+	{x: 500, y: 500}
+];
+ball = doings[3];
+
+sim
+	.nodes(doings)
+	.alphaDecay(0)
+	.alpha(.001)
+	.on("tick", update)
+	.velocityDecay(0.001)
+	;
+
+draw = svg.selectAll("circle")
+	.data(doings)
+	.enter().append("circle")
+	.attr("r", 5)
+	;
+	
+draw.filter(function (d) {return (doings.slice(0,3).indexOf(d) != -1);})
+	.style("fill", "none")
+	.style("stroke-width", "1.5px")
+	.style("stroke", "#000")
+	;
+
+	
+links = [
+	{source: doings[0], target: ball},
+	{source: doings[1], target: ball},
+	{source: doings[2], target: ball}
+];
+var lines = svg.selectAll("line")
+	.data(links)
+	.enter().append("line")
+	.attr("stroke-width", 1)
+	.attr("stroke", "#000")
+	.attr("stroke-dasharray", "5,5")
+	.attr("display", "none")
+	;
+
+var forces = [];
+var ts = [];
+
+function update() {
+	draw
+		.attr("cx", function (d) {return d.x;})
+		.attr("cy", function (d) {return d.y;})
+		;
+
+	lines
+		.attr("x1", function (d) {return d.source.x;})
+		.attr("y1", function (d) {return d.source.y;})
+		.attr("x2", function (d) {return d.target.x;})
+		.attr("y2", function (d) {return d.target.y;})
+		;
+		
+	t = trail.append("circle")
+		.attr("cx", ball.x)
+		.attr("cy", ball.y)
+		.attr("r", 1.5)
+		//.transition(d3.transition().duration(10000))
+		//.style("opacity", 0)
+		;
+	ts.push(t);
+	if (ts.length > 1500) {
+		//console.log(ts.length)
+		b = ts[ts.length-1500];
+		ts = ts.slice(1, ts.length)
+		b.remove();
+	}
+}
+
+
+function addlink() {
+	if (!d3.event.repeat) { 
+		k = d3.event.key
+		if (k == "ArrowLeft") forces.push(links[0]);
+		else if (k == "ArrowRight") forces.push(links[1]);
+		else if (k == "ArrowUp") forces.push(links[2]);
+	}
+	updateforces();
+}
+
+function remlink() {
+	k = d3.event.key
+	if (k == "ArrowLeft") forces.splice(forces.indexOf(links[0]), 1);
+	else if (k == "ArrowRight") forces.splice(forces.indexOf(links[1]), 1);
+	else if (k == "ArrowUp") forces.splice(forces.indexOf(links[2]), 1);
+	updateforces();
+}
+
+function updateforces() {
+	sim.force("rope").links(forces);
+	lines
+		.attr("display", "none")
+		.filter(function (d) {return (forces.indexOf(d) != -1);})
+		.attr("display", "true")
+		;
+}
+
+</script>

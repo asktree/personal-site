@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+#wrap {
+	position: relative;
+	width: 100%;
+	height: 1000px;
+}
+
+#help {
+	position: absolute;
+	font-family: 'Courier New', 'Courier', monospace;
+	top: 0px;
+	left: 0px;
+	
+path{cursor:pointer} 
+path:hover {
+    opacity: 0.5;
+    stroke:green;
+  }
+
+</style>
+<body>
+<div id="wrap">
+	<div id="help">
+		<b>arrowkeys</b> to move pointer <br>
+		hold <b>Space</b> to move secondary pointer <br>
+		<b>wasd</b> to move across polar coordinates centered on secondary pointer <br>
+		hold <b>f</b> to move pointer without drawing.<br>
+		<b>click</b> a path to select or deselect it, and <b>delete</b> to remove it.
+	</div>
+</div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+var svg = d3.select("#wrap").append("svg")
+	.attr("width", "100%")
+	.attr("height", "100%")
+	;
+
+d3.select("body")
+	.on("keydown", move)
+	.on("keyup", unmove)
+	;
+var sim = d3.forceSimulation();
+
+mx = +(svg.style("width").slice(0,-2))/2
+my = +(svg.style("height").slice(0,-2))/2
+
+var ball = {x: mx, y: my};
+var sball = {x: mx-0.001, y: my};
+var dball = {x: mx, y: my};
+
+sim
+	.on("tick", update)
+	.alphaDecay(0)
+	.restart()
+	;
+
+var draw = svg.append("circle")
+	.data([ball])
+	.attr("r", 3)
+	;
+
+var sdraw = svg.append("circle")
+	.data([sball])
+	.style("stroke-dasharray", "4,4")
+	.attr("fill", "none")
+	.style("stroke", "#000")
+	.style("stroke-width", 2)
+	.attr("display", "none")
+	;
+
+var sdraw2 = svg.append("circle")
+	.attr("fill", "none")
+	.style("stroke-width", 2)
+	.style("stroke", "#000")
+	.attr("r", 3)
+	.attr("display", "none")
+	;
+	
+var next = d3.select();
+var path = d3.path();
+	
+var ts = [];
+var right = 0,
+	down = 0,
+	smode = false,
+	cright = 0,
+	fmode = false,
+	cdown = 0;
+	selected = d3.select();;
+
+function update() {
+	if (cright) rotate(cright, true, false);
+	else if (cdown) extend(cdown, false);
+	
+	else if (smode) {
+		sball.x += right;
+		sball.y += down;
+		dball.x = ball.x;
+		dball.y = ball.y;
+	}
+	
+	else if (right || down) {
+		walkright(right, false);
+		walkdown(down, false);
+	}
+		
+	draw
+		.attr("cx", function (d) {return d.x;})
+		.attr("cy", function (d) {return d.y;})
+		;
+	
+	sdraw
+		.attr("cx", function (d) {return d.x;})
+		.attr("cy", function (d) {return d.y;})
+		.attr("r", function(d) {return Math.sqrt(Math.pow(d.x-ball.x,2)+Math.pow(d.y-ball.y,2));})
+		;
+		
+	sdraw2
+		.attr("cx", function (d) {return sball.x;})
+		.attr("cy", function (d) {return sball.y;})
+	
+	if (!fmode){
+		next
+			.attr("d", path);
+	}
+}
+
+function rotate(n, relative = false, manual = true) {
+	if (manual) makenext();
+	var cart = cartesian2Polar(ball.x, ball.y);
+		
+		if (Math.sqrt(Math.pow(ball.x-dball.x,2)+Math.pow(ball.y-dball.y,2)) > cart.distance) {
+			if (!fmode){
+				next
+					.attr("d", path);
+			}
+			
+			makenext();
+			dball.x = ball.x;
+			dball.y = ball.y;
+			//makenext();
+		}
+		
+		if (relative) n = n/cart.distance;
+		cart.radians += n;
+		
+		ball.x = sball.x + cart.distance*Math.cos(cart.radians);
+		ball.y = sball.y + cart.distance*Math.sin(cart.radians);
+		path = linkArc()
+	if (manual) update();
+}
+
+function extend(n, manual = true) {
+	if (manual) makenext();
+	var cart = cartesian2Polar(ball.x, ball.y);
+	
+	cart.distance += n;
+	
+	ball.x = sball.x + cart.distance*Math.cos(cart.radians);
+	ball.y = sball.y + cart.distance*Math.sin(cart.radians);
+		// this seems to have been broken. perhaps by some update
+	//path._[5] = ball.x;
+	//path._[7] = ball.y;
+	path = line();
+	if (manual) update();
+}
+
+function walkright(n, manual = true){
+	if (manual) makenext();
+	ball.x += n;
+	//dball.x = ball.x;
+	//console.log(path)
+	//path._[5] = ball.x;
+	path = line();
+	if (manual) update();
+}
+
+function walkdown(n, manual = true){
+	if (manual) makenext();
+	ball.y += n;
+	//dball.y = ball.y;
+
+	//path._[7] = ball.y;
+	path = line();
+	if (manual) update();
+}
+
+function join(){
+	sball.x = ball.x;
+	sball.y = ball.y;
+}
+
+function cartesian2Polar(x, y){
+	var vecx = x-sball.x
+	var vecy = y-sball.y
+    distance = Math.sqrt(vecx*vecx + vecy*vecy)
+    radians = Math.atan2(vecy,vecx) //This takes y first
+    polarCoor = { distance:distance, radians:radians }
+    return polarCoor
+}
+
+function makenext() {
+	dball.x = ball.x;
+	dball.y = ball.y;
+	next = svg.append("path")
+		.style("stroke-width", 2)
+		.style("stroke", "#000")
+		.style("fill", "none")
+		.on("mouseover",line_over)
+		.on("mouseout",line_out)
+		.on("click",line_click)
+		;
+	path = d3.path();
+	path.moveTo(ball.x, ball.y);
+	path.lineTo(ball.x, ball.y);
+	console.log("new")
+	}
+
+function linkArc() {
+	var dx = ball.x - dball.x,
+		dy = ball.y - dball.y,
+		dr = Math.sqrt(Math.pow(sball.x-dball.x,2)+Math.pow(sball.y-dball.y,2)),
+		flag = 0;
+	// if we're on opposite sides and im further horizontally
+	idiot = (((ball.y > sball.y)^(dball.y > sball.y)) && (Math.abs(dball.x-sball.x) < Math.abs(ball.x-sball.x)))
+	flag = flag^(ball.x > dball.x)^(ball.y > sball.y)^idiot;
+	
+	return "M" + dball.x + "," + dball.y + "A" + dr + "," + dr + " 0 0,"+flag+" " + ball.x + "," + ball.y;
+}
+
+function line() {
+	return "M" + dball.x + "," + dball.y + "L" + ball.x + "," + ball.y;
+}
+
+function makearc() {
+	console.log(2);
+	arc = d3.path().arcTo(dball.x, dball.y, ball.x, ball.y, Math.sqrt(Math.pow(dball.x-ball.x,2)+Math.pow(dball.y-ball.y,2)))
+	return arc;
+}
+
+function makeline() {
+	p = d3.path();
+	p.lineTo(ball.x, ball.y);
+	return p;
+}
+
+function line_over(d, i) {
+	console.log("cl!")
+	d3.select(this)
+		.style("stroke-width", "4")
+		;
+}
+
+function line_out(d, i) {
+	d3.select(this)
+		.style("stroke-width", "2")
+		;
+}
+
+function line_click(d, i) {
+	if (selected._groups[0].includes(this)) {
+		selected = d3.select();
+	}
+	else selected = d3.select(this)
+	d3.selectAll("path")
+		.style("stroke", "#000");
+			
+	selected
+		.style("stroke", "#f00");
+}
+
+function move() {
+	if (!d3.event.repeat) { 
+		k = d3.event.key
+		if (k == "ArrowLeft") right = -1;
+		else if (k == "ArrowRight") right = 1;
+		else if (k == "ArrowUp") down = -1;
+		else if (k == "ArrowDown") down = 1;
+		else if (k == "a") cright = -1;
+		else if (k == "d") cright = 1;
+		else if (k == "w") cdown = 1;
+		else if (k == "s") cdown = -1;
+		else if (k == "f") fmode = true;
+		else if (k == " ") {
+			smode = true;
+			sdraw.attr("display", "true");
+			sdraw2.attr("display", "true");
+		}
+		else if (k == "Delete") selected.remove();
+		//else if (k == "Shift") 
+		makenext();
+	}
+}
+
+function unmove() {
+	k = d3.event.key
+	console.log(k);
+	if (k == "ArrowLeft") right = 0;
+	else if (k == "ArrowRight") right = 0;
+	else if (k == "ArrowUp") down = 0;
+	else if (k == "ArrowDown") down = 0;
+	else if (k == "a") cright = 0;
+	else if (k == "d") cright = 0;
+	else if (k == "w") cdown = 0;
+	else if (k == "s") cdown = 0;
+	else if (k == "f") fmode = false;
+	else if (k == " ") {
+		smode = false;
+		sdraw.attr("display", "none");
+		sdraw2.attr("display", "none");
+	}
+	makenext();
+}
+
+</script>

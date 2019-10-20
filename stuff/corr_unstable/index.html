@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet">
+<style type='text/css'>
+body {
+	margin: 0px;
+}
+
+.node {
+	stroke-width: 1.5;
+}
+.node:hover {
+	stroke-width: 3;
+}
+.node.highlighted {
+	stroke-width: 3;
+}
+.county:hover{
+	stroke: #f00;
+	stroke-width: 1;
+}
+
+#graphWrap {
+	position:relative;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+#graph {
+	//position: absolute;
+	top:0px;
+	left:0px;
+	height:1250px;
+}
+
+#toolwrap{
+	position: absolute;
+	width: 230px;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 16px;
+	text-align: center;
+	display: none;
+	z-index: 9001;
+	background: rgba(0,0,0,0);
+	//padding-bottom: 3px;
+}
+
+#toolwrap.highlighted{
+	width: 350px;
+}
+
+#toolwrap.embiggened{
+	width: 100% !important;
+	height: 100% !important;
+	left: 0% !important;
+	top: 0% !important;
+	background: rgba(0,0,0,.4);
+}
+
+#tooltip{
+	padding: 10px;
+	border-radius: 3px;
+	background: rgba(255,255,255,0.9);
+	border-bottom: 3px solid rgba(0,0,0,1);
+}
+
+.highlighted #tooltip{
+	background: rgba(255,255,255,1);
+}
+
+.embiggened #tooltip{
+	position: absolute;
+	width: 90% !important;
+	height: 90% !important;
+	top: 5% !important;
+	left: 5% !important;
+}
+
+#toolmap{
+	height: 100%;
+}
+
+#countytip{
+	position: absolute;
+	font-size: 10px;
+	line-height: 12px;
+	text-align: center;
+	display: none;
+	z-index: 9002;
+	background: #fff;
+	padding: 2px;
+	pointer-events: none;
+	border-radius: 3px;
+	}
+
+#legend{
+	position: absolute;
+	top:20px;
+	left:0px;
+	background: none;
+	padding: 1em;
+	
+	//pointer-events: none;
+	width:0px;
+	overflow: visible;
+	white-space: nowrap;
+}
+
+#guide {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	background: none;
+	text-align: right;
+	padding: 1em;
+	font-family: 'Roboto', sans-serif;
+	pointer-events: none;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+
+#mentions{
+	position: absolute
+	top:0px;
+	right: 0px;
+	background: none;
+	text-align: right;
+	padding: 1em;
+}
+
+.big {
+	font-family: 'Roboto Slab', serif;
+	line-height:1em;
+	font-size: 1.2em;
+}
+
+.little {
+	font-size: .85em;
+	opacity: .75;
+}
+
+a {
+text-decoration: none;
+color: #000;
+cursor: pointer;
+//font-weight:;
+}
+
+a:hover {
+font-weight: bold;
+}
+
+</style>
+<body>
+	<div id="graphWrap">
+		<div id="mentions">
+			<br>
+			By <a href="http://ask.fish">Agrippa Kellum</a><br>
+			& <a href="http://nathanhigh.com">Nathan High</a>
+		</div>
+		<div id="legend">
+			<h1 class="big">A portrait of relationships between U.S. datasets</h1>
+			The U.S. Government produces hundreds of county-level estimates and totals <br> 
+			across various measures of
+			economic activity, demographic makeup, <br>
+			welfare, etcetera. The goal of this project is to make the relationships <br>
+			between these data clearly and quickly visible. <br><br>
+			
+			Nodes represent individual county-level statistics.<br>
+			<div class="little">
+			The color of a node reflects its document of origin.<br>
+			<div id="legendcolors"></div>
+				+ Search or Upload
+			</div><br>
+			Edges represent correlation across the counties. <br>
+			
+			<div class="little">
+			The opacity of an edge shows its value.<br><br>
+			<svg height="30" width="500">
+			<line x1="5" y1="0"  x2="50" style="stroke:#000; stroke-opacity:.2;" />
+			<line x1="55" y1="0" x2="100" style="stroke:#000; stroke-opacity:.4;" />
+			<line x1="105" y1="0" x2="150" style="stroke:#000; stroke-opacity:.6;" />
+			<line x1="155" y1="0" x2="200"  style="stroke:#000; stroke-opacity:.8;" />
+
+			<text x="1" y="15" font-size="12">r = .25</text>
+			<text x="70" y="15" font-size="12">.5</text>
+			<text x="120" y="15" font-size="12">.75</text>
+			<text x="175" y="15" font-size="12">1</text>
+			</svg>
+			</div>
+			
+			<form id="search-form" method="post" action="127.0.0.1:8887/d3/i.html">
+				<div class="field">
+					<label for="name">Search datasets:</label>
+					<input type="text" id="name" name="name" required>
+				</div>
+			</form>
+		</div>
+		<div id="graph"></div>
+		<div id="toolwrap">
+			<div id="tooltip">
+				<div id="tooltext"></div>
+				<div id="toolmap"></div>
+				<div id="maphelp" style="display: none;"><a id="tipenlarge">Enlarge</a> | Download</div>
+				<div id="countytip"></div>
+			</div>
+		</div>
+	</div>
+	<div id="guide">
+		<h1 class="big">Tips</h1>
+		Mouse over a node for information about it.<br>
+		Doubleclick a node to highlight it.<br>
+		Highlighted nodes display a map in their toolwrap.<br>
+		Neighbors of highlighted nodes display the pair's correlation coefficient.<br>
+	</div>
+</body>
+
+<style>
+path {
+		/*fill: #ccc;
+		stroke: #fff;
+		stroke-width: .5px;*/
+	}
+</style>
+    
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+<script src="helpers.js"></script>
+<script src="graph.js"></script>
+
+<script>
+
+$('#search-form').on('input',function(event) {
+    event.preventDefault();
+    var search_val = $( '#name' ).val();
+    searchlight(search(search_val));
+
+    // TODO
+});
+
+$('#tipenlarge').click(tipenlarge);
+
+/** async graph loading, disabled for local testing */
+ $.ajax({
+	type: "POST",
+	url: 'http://52.42.29.32:8888/',
+	crossDomain: true,
+	data: {send_graph: "1", num_connections: "10", subset: "Percent"},
+	dataType: "json"
+}).done(function(graph){
+	//alert('Loaded graph');
+	console.log(graph);
+	load_graph(graph);
+
+}).fail(function(jqXHR,textStatus,error){
+	throw error;
+}); 
+
+// !!! TESTING SETUP, TO BE REPLACED !!!
+/*
+function loadGraph() {
+ 	d3.json("t.json", function(error, graph){
+ 		bug = graph;
+ 		if (error) throw error;
+ 		load_graph(graph);
+ 		sim.on("tick", update);
+ 	});
+}
+loadGraph();
+*/
+window.onresize = recenter;
+
+</script>

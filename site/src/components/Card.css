@@ -1,0 +1,24 @@
+
+.card {
+  color: #cae9fc;
+  border-radius: 15px;
+  border-width: 2px;
+  border-color: white;
+  padding: 30px;
+  border-style: solid;
+  width: 300px;
+  font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.cardContent>a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.cardContent>a:hover {
+  color: white;
+}
+
+.cardName {
+  color: white;
+}
